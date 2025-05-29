@@ -1,0 +1,34 @@
+version: '3.8' # 建议使用最新的稳定版本，例如 '3.8'
+
+services:
+  weaviate:
+    image: semitechnologies/weaviate:1.24.10 # 确认这是你希望使用的版本
+    restart: always
+    ports:
+      - "8080:8080"
+      - "50051:50051" # 建议保留 gRPC 端口，客户端可能需要
+    environment:
+      QUERY_DEFAULTS_LIMIT: 25
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
+      DEFAULT_VECTORIZER_MODULE: 'multi2vec-clip' # 默认向量化模块
+      ENABLE_MODULES: 'multi2vec-clip' # 启用 multi2vec-clip 模块
+      CLIP_INFERENCE_API: 'http://multi2vec-clip:8080' # 指向 multi2vec-clip 容器内部的8080端口
+      # TRANSFORMERS_INFERENCE_API: 'http://multi2vec-clip:8080' # 移除此行，因为 multi2vec-clip 已处理文本
+      LOG_LEVEL: 'info' # 生产环境建议改为 info 或 warn
+      CLUSTER_HOSTNAME: 'node1' # 保持此项
+    depends_on:
+      - multi2vec-clip # 确保 multi2vec-clip 服务先启动
+    volumes:
+      - weaviate_data:/var/lib/weaviate # 数据持久化
+
+  multi2vec-clip:
+    image: semitechnologies/multi2vec-clip:sentence-transformers-clip-ViT-B-32-multilingual-v1
+    restart: always
+    # ports: # 移除此行，不需要将此容器的端口暴露给主机
+    #   - "8081:8080"
+    environment:
+      ENABLE_CUDA: '0' # 如果你有GPU并想用CUDA, 改为1 (但你目前配置建议为0)
+
+volumes:
+  weaviate_data: # 定义一个 Docker Volume 来持久化 Weaviate 数据
