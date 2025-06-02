@@ -1,0 +1,295 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9994394779,
+                "min": 0.9968288541,
+                "variance": 1.049592242e-06
+            },
+            "words": "普通处方（西药）"
+        },
+        {
+            "probability": {
+                "average": 0.9998710155,
+                "min": 0.9985924363,
+                "variance": 1.37342866e-07
+            },
+            "words": "No.1306727489"
+        },
+        {
+            "probability": {
+                "average": 0.9999789,
+                "min": 0.9998170733,
+                "variance": 1.855464671e-09
+            },
+            "words": "华中科技大学同济医学院附属协和医院"
+        },
+        {
+            "probability": {
+                "average": 0.9997155666,
+                "min": 0.999224782,
+                "variance": 1.209918992e-07
+            },
+            "words": "处方笺"
+        },
+        {
+            "probability": {
+                "average": 0.999801755,
+                "min": 0.9991111159,
+                "variance": 1.197596333e-07
+            },
+            "words": "费别：自费"
+        },
+        {
+            "probability": {
+                "average": 0.9998672605,
+                "min": 0.9996230602,
+                "variance": 1.574135666e-08
+            },
+            "words": "打印次数：1"
+        },
+        {
+            "probability": {
+                "average": 0.9996331334,
+                "min": 0.999207437,
+                "variance": 1.181502896e-07
+            },
+            "words": "姓名：王洋洋"
+        },
+        {
+            "probability": {
+                "average": 0.9998977184,
+                "min": 0.9997070432,
+                "variance": 1.258835258e-08
+            },
+            "words": "性别：女"
+        },
+        {
+            "probability": {
+                "average": 0.9999217987,
+                "min": 0.9996665716,
+                "variance": 1.357147728e-08
+            },
+            "words": "年龄：29岁"
+        },
+        {
+            "probability": {
+                "average": 0.9999789596,
+                "min": 0.9999485016,
+                "variance": 3.217044964e-10
+            },
+            "words": "门诊号：221347966"
+        },
+        {
+            "probability": {
+                "average": 0.9999544024,
+                "min": 0.9998781681,
+                "variance": 1.390612847e-09
+            },
+            "words": "就诊院区：本部"
+        },
+        {
+            "probability": {
+                "average": 0.9999611378,
+                "min": 0.9998865128,
+                "variance": 9.003500168e-10
+            },
+            "words": "开单：皮肤科门诊"
+        },
+        {
+            "probability": {
+                "average": 0.9997649789,
+                "min": 0.9989385009,
+                "variance": 1.378249976e-07
+            },
+            "words": "诊断：扁平疣"
+        },
+        {
+            "probability": {
+                "average": 0.9998584986,
+                "min": 0.9998584986,
+                "variance": 0
+            },
+            "words": "R"
+        },
+        {
+            "probability": {
+                "average": 0.9999392033,
+                "min": 0.9998181462,
+                "variance": 3.161469531e-09
+            },
+            "words": "执行：本部门诊七楼门诊七楼西药房"
+        },
+        {
+            "probability": {
+                "average": 0.9943468571,
+                "min": 0.9902586937,
+                "variance": 1.671283644e-05
+            },
+            "words": "1:"
+        },
+        {
+            "probability": {
+                "average": 0.9834474921,
+                "min": 0.5451093912,
+                "variance": 0.007116449066
+            },
+            "words": "(小赛若金)注射用重组人干扰素a1b3MIU:30ug×"
+        },
+        {
+            "probability": {
+                "average": 0.9998475909,
+                "min": 0.9997600913,
+                "variance": 4.373686746e-09
+            },
+            "words": "15支"
+        },
+        {
+            "probability": {
+                "average": 0.9994997978,
+                "min": 0.9956915975,
+                "variance": 1.344119028e-06
+            },
+            "words": "用法：3MIUqod肌注"
+        },
+        {
+            "probability": {
+                "average": 0.9939517975,
+                "min": 0.9879196882,
+                "variance": 3.638634371e-05
+            },
+            "words": "2:"
+        },
+        {
+            "probability": {
+                "average": 0.9989185333,
+                "min": 0.9838828444,
+                "variance": 1.047363548e-05
+            },
+            "words": "(天福)脾氨肽口服溶液10ml:10mg*6×5盒"
+        },
+        {
+            "probability": {
+                "average": 0.9453300834,
+                "min": 0.6575011015,
+                "variance": 0.01266772673
+            },
+            "words": "用法：10毫升ad口服"
+        },
+        {
+            "probability": {
+                "average": 0.9992024899,
+                "min": 0.9961412549,
+                "variance": 1.51117149e-06
+            },
+            "words": "3:复方黄柏液涂剂150ml×1瓶"
+        },
+        {
+            "probability": {
+                "average": 0.9995648861,
+                "min": 0.9969453216,
+                "variance": 8.657038393e-07
+            },
+            "words": "用法：适量qd外用"
+        },
+        {
+            "probability": {
+                "average": 0.9995045662,
+                "min": 0.9962534904,
+                "variance": 9.394798326e-07
+            },
+            "words": "4:0.9%氯化钠注射液10ml×15支"
+        },
+        {
+            "probability": {
+                "average": 0.9997922182,
+                "min": 0.9988825917,
+                "variance": 1.123056848e-07
+            },
+            "words": "用法：适量qd外用"
+        },
+        {
+            "probability": {
+                "average": 0.9994962811,
+                "min": 0.998016119,
+                "variance": 7.303478924e-07
+            },
+            "words": "以下空白"
+        },
+        {
+            "probability": {
+                "average": 0.9999882579,
+                "min": 0.9999753237,
+                "variance": 4.452458194e-11
+            },
+            "words": "221347966"
+        },
+        {
+            "probability": {
+                "average": 0.9998550415,
+                "min": 0.9987891316,
+                "variance": 7.511042099e-08
+            },
+            "words": "该处方单请在3天内交费，过期无效。"
+        },
+        {
+            "probability": {
+                "average": 0.9980205894,
+                "min": 0.9882692099,
+                "variance": 1.901819451e-05
+            },
+            "words": "医师：刘厚君"
+        },
+        {
+            "probability": {
+                "average": 0.9998448491,
+                "min": 0.99799335,
+                "variance": 1.778326748e-07
+            },
+            "words": "打印时间：2022年02月12日11：17"
+        },
+        {
+            "probability": {
+                "average": 0.9997825623,
+                "min": 0.9994385839,
+                "variance": 5.927364199e-08
+            },
+            "words": "审核："
+        },
+        {
+            "probability": {
+                "average": 0.9901168942,
+                "min": 0.9704729319,
+                "variance": 0.0001929436112
+            },
+            "words": "核对："
+        },
+        {
+            "probability": {
+                "average": 0.9999627471,
+                "min": 0.999779284,
+                "variance": 3.639650581e-09
+            },
+            "words": "费用合计：1468.9元"
+        },
+        {
+            "probability": {
+                "average": 0.9927943349,
+                "min": 0.9788725376,
+                "variance": 9.691078594e-05
+            },
+            "words": "调配："
+        },
+        {
+            "probability": {
+                "average": 0.9968797565,
+                "min": 0.9908423424,
+                "variance": 1.822939339e-05
+            },
+            "words": "发药："
+        }
+    ],
+    "words_result_num": 36,
+    "direction": 0,
+    "log_id": 1929384205833841174
+}

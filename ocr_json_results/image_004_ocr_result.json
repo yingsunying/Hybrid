@@ -1,0 +1,399 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9999772906,
+                "min": 0.9998539686,
+                "variance": 1.557207696e-09
+            },
+            "words": "重庆医科大学附属儿童医院"
+        },
+        {
+            "probability": {
+                "average": 0.9999592304,
+                "min": 0.9999024868,
+                "variance": 1.149608408e-09
+            },
+            "words": "门诊病历"
+        },
+        {
+            "probability": {
+                "average": 0.9943038821,
+                "min": 0.9803053141,
+                "variance": 5.652020263e-05
+            },
+            "words": "姓名杨晨晨"
+        },
+        {
+            "probability": {
+                "average": 0.9999838471,
+                "min": 0.999961853,
+                "variance": 2.302620317e-10
+            },
+            "words": "年龄3岁6月"
+        },
+        {
+            "probability": {
+                "average": 0.999984622,
+                "min": 0.9998979568,
+                "variance": 6.829715127e-10
+            },
+            "words": "ID号0016528146"
+        },
+        {
+            "probability": {
+                "average": 0.99995327,
+                "min": 0.9997672439,
+                "variance": 5.088744093e-09
+            },
+            "words": "科别渝中发热门诊"
+        },
+        {
+            "probability": {
+                "average": 0.9999658465,
+                "min": 0.9998313189,
+                "variance": 2.008856637e-09
+            },
+            "words": "就诊时间2024年02月18日15时41分"
+        },
+        {
+            "probability": {
+                "average": 0.9997069836,
+                "min": 0.9987758994,
+                "variance": 1.35595883e-07
+            },
+            "words": "主诉：咳嗽3天，发热1+天，流涕"
+        },
+        {
+            "probability": {
+                "average": 0.9987245798,
+                "min": 0.9905276299,
+                "variance": 4.847259788e-06
+            },
+            "words": "现病史：有咳嗽，剧烈。发热，无气促，无吼喘。精神食欲可。否认药物"
+        },
+        {
+            "probability": {
+                "average": 0.9997109771,
+                "min": 0.9980175495,
+                "variance": 2.795422915e-07
+            },
+            "words": "过敏史。否认异物吸入及刺激性呛咳"
+        },
+        {
+            "probability": {
+                "average": 0.9994707108,
+                "min": 0.9956692457,
+                "variance": 1.259025225e-06
+            },
+            "words": "既往史：否认蚕豆病，无特殊"
+        },
+        {
+            "probability": {
+                "average": 0.9996119738,
+                "min": 0.9934800863,
+                "variance": 1.337846015e-06
+            },
+            "words": "检：神清，反应可，咽红，双侧扁桃体I度，心音有力，双肺呼吸音"
+        },
+        {
+            "probability": {
+                "average": 0.9994817972,
+                "min": 0.9994267225,
+                "variance": 3.033221674e-09
+            },
+            "words": "粗。"
+        },
+        {
+            "probability": {
+                "average": 0.999412775,
+                "min": 0.998167038,
+                "variance": 4.703463787e-07
+            },
+            "words": "断：1.支气管炎"
+        },
+        {
+            "probability": {
+                "average": 0.998431325,
+                "min": 0.9887935519,
+                "variance": 1.329014776e-05
+            },
+            "words": "处置：辅助检查："
+        },
+        {
+            "probability": {
+                "average": 0.9999782443,
+                "min": 0.9998470545,
+                "variance": 1.608128186e-09
+            },
+            "words": "血液分析/hC/S末（发热）"
+        },
+        {
+            "probability": {
+                "average": 0.9999622703,
+                "min": 0.9999241829,
+                "variance": 6.268240371e-10
+            },
+            "words": "结果见检验报告"
+        },
+        {
+            "probability": {
+                "average": 0.9999087453,
+                "min": 0.9995437264,
+                "variance": 1.43716159e-08
+            },
+            "words": "阿奇霉素干混悬剂（希舒美）"
+        },
+        {
+            "probability": {
+                "average": 0.9999726415,
+                "min": 0.9998632669,
+                "variance": 2.060281057e-09
+            },
+            "words": "100mg*6"
+        },
+        {
+            "probability": {
+                "average": 0.9948493242,
+                "min": 0.9897446036,
+                "variance": 2.605847658e-05
+            },
+            "words": "1盒"
+        },
+        {
+            "probability": {
+                "average": 0.9997948408,
+                "min": 0.9993116856,
+                "variance": 6.807572106e-08
+            },
+            "words": "用法：125mg"
+        },
+        {
+            "probability": {
+                "average": 0.9993821979,
+                "min": 0.9989442229,
+                "variance": 1.918220391e-07
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9985752106,
+                "min": 0.9958366156,
+                "variance": 3.749956022e-06
+            },
+            "words": "1/日"
+        },
+        {
+            "probability": {
+                "average": 0.9991800785,
+                "min": 0.995052278,
+                "variance": 2.262939688e-06
+            },
+            "words": "∽蒲地蓝消炎口服液"
+        },
+        {
+            "probability": {
+                "average": 0.9991283417,
+                "min": 0.9950712919,
+                "variance": 2.870947583e-06
+            },
+            "words": "10ml*12"
+        },
+        {
+            "probability": {
+                "average": 0.9999863505,
+                "min": 0.9999746084,
+                "variance": 1.378772652e-10
+            },
+            "words": "2盒"
+        },
+        {
+            "probability": {
+                "average": 0.9998946786,
+                "min": 0.9997201562,
+                "variance": 1.161857988e-08
+            },
+            "words": "用法：10ml"
+        },
+        {
+            "probability": {
+                "average": 0.997866869,
+                "min": 0.9958569407,
+                "variance": 4.0399309e-06
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9998035431,
+                "min": 0.9995160103,
+                "variance": 4.305684342e-08
+            },
+            "words": "3/日"
+        },
+        {
+            "probability": {
+                "average": 0.9990170598,
+                "min": 0.9953719974,
+                "variance": 2.862621614e-06
+            },
+            "words": "磺棕合剂5号"
+        },
+        {
+            "probability": {
+                "average": 0.9982169867,
+                "min": 0.9914591312,
+                "variance": 1.142137808e-05
+            },
+            "words": "100ml"
+        },
+        {
+            "probability": {
+                "average": 0.9908461571,
+                "min": 0.981789887,
+                "variance": 8.201548917e-05
+            },
+            "words": "1瓶"
+        },
+        {
+            "probability": {
+                "average": 0.9997605085,
+                "min": 0.999237299,
+                "variance": 6.921681717e-08
+            },
+            "words": "用法：10ml"
+        },
+        {
+            "probability": {
+                "average": 0.9480212927,
+                "min": 0.8963754773,
+                "variance": 0.002667293418
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9997890592,
+                "min": 0.999442637,
+                "variance": 6.093921456e-08
+            },
+            "words": "2/日"
+        },
+        {
+            "probability": {
+                "average": 0.9996582866,
+                "min": 0.9987999201,
+                "variance": 1.700777972e-07
+            },
+            "words": "杏仁止咳口服液"
+        },
+        {
+            "probability": {
+                "average": 0.9991666675,
+                "min": 0.9968198538,
+                "variance": 1.420348781e-06
+            },
+            "words": "100ml"
+        },
+        {
+            "probability": {
+                "average": 0.9972118735,
+                "min": 0.9944384098,
+                "variance": 7.692101462e-06
+            },
+            "words": "1瓶"
+        },
+        {
+            "probability": {
+                "average": 0.9996458888,
+                "min": 0.9987540245,
+                "variance": 2.000858927e-07
+            },
+            "words": "用法：7.5ml"
+        },
+        {
+            "probability": {
+                "average": 0.998855114,
+                "min": 0.9978627563,
+                "variance": 9.848330365e-07
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9996757507,
+                "min": 0.9991078973,
+                "variance": 1.62104115e-07
+            },
+            "words": "3/日"
+        },
+        {
+            "probability": {
+                "average": 0.9991229773,
+                "min": 0.9922480583,
+                "variance": 2.146429551e-06
+            },
+            "words": "建议：密切注意体温、咳嗽、精神、食纳、面色、呼吸等情况，避免呛"
+        },
+        {
+            "probability": {
+                "average": 0.9999691248,
+                "min": 0.9998540878,
+                "variance": 1.331122768e-09
+            },
+            "words": "奶,保持呼吸道通畅,病情变化请及时就诊。若体温大于"
+        },
+        {
+            "probability": {
+                "average": 0.9998235106,
+                "min": 0.9989719391,
+                "variance": 6.212408721e-08
+            },
+            "words": "38.5℃，或有热性惊厥史38℃以上者及时退热，若有相关药物过"
+        },
+        {
+            "probability": {
+                "average": 0.9997366667,
+                "min": 0.9967291355,
+                "variance": 3.620411064e-07
+            },
+            "words": "敏史请慎用退热药，多喝水，加强温水擦浴等物理降温。呼吸科"
+        },
+        {
+            "probability": {
+                "average": 0.9996779561,
+                "min": 0.9992374182,
+                "variance": 9.827681424e-08
+            },
+            "words": "备注："
+        },
+        {
+            "probability": {
+                "average": 0.9998276234,
+                "min": 0.9992368221,
+                "variance": 7.03329377e-08
+            },
+            "words": "医生(签章)"
+        },
+        {
+            "probability": {
+                "average": 0.7303220034,
+                "min": 0.5533935428,
+                "variance": 0.03130368888
+            },
+            "words": "王地"
+        },
+        {
+            "probability": {
+                "average": 0.9998418689,
+                "min": 0.9994335771,
+                "variance": 3.539007309e-08
+            },
+            "words": "第1页共1页"
+        }
+    ],
+    "words_result_num": 49,
+    "direction": 0,
+    "log_id": 1929384188653982435
+}

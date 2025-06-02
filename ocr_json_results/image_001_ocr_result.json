@@ -1,0 +1,855 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9995371699,
+                "min": 0.9981725216,
+                "variance": 4.784182011e-07
+            },
+            "words": "9月25日"
+        },
+        {
+            "probability": {
+                "average": 0.9998474121,
+                "min": 0.9991989732,
+                "variance": 5.690988658e-08
+            },
+            "words": "西安理工大学实验报告用纸"
+        },
+        {
+            "probability": {
+                "average": 0.9999887347,
+                "min": 0.9999710321,
+                "variance": 8.684608588e-11
+            },
+            "words": "西安交通大学第一附属医院"
+        },
+        {
+            "probability": {
+                "average": 0.9999470115,
+                "min": 0.9997691512,
+                "variance": 6.622645099e-09
+            },
+            "words": "普通门诊处方"
+        },
+        {
+            "probability": {
+                "average": 0.9996637106,
+                "min": 0.999432981,
+                "variance": 5.32223865e-08
+            },
+            "words": "西药"
+        },
+        {
+            "probability": {
+                "average": 0.9999300838,
+                "min": 0.9997467399,
+                "variance": 8.721312561e-09
+            },
+            "words": "姓名：洪峰"
+        },
+        {
+            "probability": {
+                "average": 0.999946475,
+                "min": 0.9998779297,
+                "variance": 2.278447653e-09
+            },
+            "words": "性别：男"
+        },
+        {
+            "probability": {
+                "average": 0.9998872876,
+                "min": 0.9994084835,
+                "variance": 2.904927676e-08
+            },
+            "words": "账户余额：51.00元"
+        },
+        {
+            "probability": {
+                "average": 0.9999827743,
+                "min": 0.9999412298,
+                "variance": 3.981016905e-10
+            },
+            "words": "年龄：68岁"
+        },
+        {
+            "probability": {
+                "average": 0.999990046,
+                "min": 0.999953866,
+                "variance": 1.188996818e-10
+            },
+            "words": "门诊号：0011827305"
+        },
+        {
+            "probability": {
+                "average": 0.9998610616,
+                "min": 0.9994394183,
+                "variance": 4.589115932e-08
+            },
+            "words": "就诊时间："
+        },
+        {
+            "probability": {
+                "average": 0.9999961853,
+                "min": 0.9999842644,
+                "variance": 1.673392674e-11
+            },
+            "words": "2024年08月03日"
+        },
+        {
+            "probability": {
+                "average": 0.9999321699,
+                "min": 0.9997423291,
+                "variance": 5.207836384e-09
+            },
+            "words": "科别：消化内科门诊"
+        },
+        {
+            "probability": {
+                "average": 0.9995644093,
+                "min": 0.9972018003,
+                "variance": 5.983049505e-07
+            },
+            "words": "临床诊断：慢性萎缩性胃炎"
+        },
+        {
+            "probability": {
+                "average": 0.9998449087,
+                "min": 0.9988817573,
+                "variance": 8.009709518e-08
+            },
+            "words": "巴雷特食管(Barrett食管)"
+        },
+        {
+            "probability": {
+                "average": 0.9998113513,
+                "min": 0.9996271133,
+                "variance": 3.39436248e-08
+            },
+            "words": "频次"
+        },
+        {
+            "probability": {
+                "average": 0.9999740124,
+                "min": 0.9999597073,
+                "variance": 2.046363079e-10
+            },
+            "words": "备注"
+        },
+        {
+            "probability": {
+                "average": 0.9999792576,
+                "min": 0.9999688864,
+                "variance": 1.075619593e-10
+            },
+            "words": "总量"
+        },
+        {
+            "probability": {
+                "average": 0.9999365807,
+                "min": 0.9999326468,
+                "variance": 1.547562078e-11
+            },
+            "words": "用法"
+        },
+        {
+            "probability": {
+                "average": 0.9999521971,
+                "min": 0.9999470711,
+                "variance": 2.627587037e-11
+            },
+            "words": "用量"
+        },
+        {
+            "probability": {
+                "average": 0.9999705553,
+                "min": 0.999948144,
+                "variance": 4.964704203e-10
+            },
+            "words": "药品名称"
+        },
+        {
+            "probability": {
+                "average": 0.999955833,
+                "min": 0.9999389648,
+                "variance": 2.845332858e-10
+            },
+            "words": "规格"
+        },
+        {
+            "probability": {
+                "average": 0.9929042459,
+                "min": 0.9240676165,
+                "variance": 0.000474182918
+            },
+            "words": "西27-05-03/."
+        },
+        {
+            "probability": {
+                "average": 0.9990338683,
+                "min": 0.9985224605,
+                "variance": 2.615379913e-07
+            },
+            "words": "Rp"
+        },
+        {
+            "probability": {
+                "average": 0.9999372959,
+                "min": 0.999848485,
+                "variance": 3.55343488e-09
+            },
+            "words": "20mg"
+        },
+        {
+            "probability": {
+                "average": 0.9999741912,
+                "min": 0.9999486208,
+                "variance": 4.006170118e-10
+            },
+            "words": "日两次"
+        },
+        {
+            "probability": {
+                "average": 0.9999856949,
+                "min": 0.9999306202,
+                "variance": 4.952518395e-10
+            },
+            "words": "20mg*28片"
+        },
+        {
+            "probability": {
+                "average": 0.9999701977,
+                "min": 0.9999451637,
+                "variance": 6.266986929e-10
+            },
+            "words": "2盒"
+        },
+        {
+            "probability": {
+                "average": 0.9995678067,
+                "min": 0.9993568063,
+                "variance": 4.452118674e-08
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9993668795,
+                "min": 0.9966464639,
+                "variance": 1.273202429e-06
+            },
+            "words": "[医]艾司奥美拉唑镁肠溶片"
+        },
+        {
+            "probability": {
+                "average": 0.9265546799,
+                "min": 0.5917736292,
+                "variance": 0.02248383127
+            },
+            "words": "「以下空白]"
+        },
+        {
+            "probability": {
+                "average": 0.9999918342,
+                "min": 0.9999755621,
+                "variance": 6.378660794e-11
+            },
+            "words": "西安交通大学第一附属医院"
+        },
+        {
+            "probability": {
+                "average": 0.999933064,
+                "min": 0.9996843338,
+                "variance": 1.250587189e-08
+            },
+            "words": "普通门诊处方"
+        },
+        {
+            "probability": {
+                "average": 0.9999784827,
+                "min": 0.9999623299,
+                "variance": 1.398383631e-10
+            },
+            "words": "68岁"
+        },
+        {
+            "probability": {
+                "average": 0.9993467331,
+                "min": 0.9986993074,
+                "variance": 4.191599601e-07
+            },
+            "words": "成药"
+        },
+        {
+            "probability": {
+                "average": 0.9999135733,
+                "min": 0.9996893406,
+                "variance": 1.321114951e-08
+            },
+            "words": "姓名：洪峰"
+        },
+        {
+            "probability": {
+                "average": 0.9999674559,
+                "min": 0.9999423027,
+                "variance": 3.562483641e-10
+            },
+            "words": "性别：男"
+        },
+        {
+            "probability": {
+                "average": 0.9999147654,
+                "min": 0.9997863173,
+                "variance": 8.096253445e-09
+            },
+            "words": "账户余额：51.00元"
+        },
+        {
+            "probability": {
+                "average": 0.9985350966,
+                "min": 0.995849371,
+                "variance": 3.612296268e-06
+            },
+            "words": "年龄："
+        },
+        {
+            "probability": {
+                "average": 0.9997110367,
+                "min": 0.9986810088,
+                "variance": 2.666658929e-07
+            },
+            "words": "就诊时间："
+        },
+        {
+            "probability": {
+                "average": 0.9999976754,
+                "min": 0.9999902248,
+                "variance": 7.457792196e-12
+            },
+            "words": "2024年08月03日"
+        },
+        {
+            "probability": {
+                "average": 0.99737674,
+                "min": 0.9929566383,
+                "variance": 9.810316442e-06
+            },
+            "words": "科别："
+        },
+        {
+            "probability": {
+                "average": 0.9999236465,
+                "min": 0.9996900558,
+                "variance": 1.096095747e-08
+            },
+            "words": "消化内科门诊"
+        },
+        {
+            "probability": {
+                "average": 0.9999354482,
+                "min": 0.9997957349,
+                "variance": 6.563221966e-09
+            },
+            "words": "门诊号："
+        },
+        {
+            "probability": {
+                "average": 0.9999961853,
+                "min": 0.9999819994,
+                "variance": 2.37989177e-11
+            },
+            "words": "0011827305"
+        },
+        {
+            "probability": {
+                "average": 0.999809444,
+                "min": 0.9990082383,
+                "variance": 8.719860034e-08
+            },
+            "words": "临床诊断：慢性萎缩性胃炎"
+        },
+        {
+            "probability": {
+                "average": 0.9998384714,
+                "min": 0.9977654219,
+                "variance": 2.87092945e-07
+            },
+            "words": "巴雷特食管(Barrett食管)"
+        },
+        {
+            "probability": {
+                "average": 0.9999518991,
+                "min": 0.9999493361,
+                "variance": 6.568967592e-12
+            },
+            "words": "用法"
+        },
+        {
+            "probability": {
+                "average": 0.9999595881,
+                "min": 0.9999554157,
+                "variance": 1.740829703e-11
+            },
+            "words": "用量"
+        },
+        {
+            "probability": {
+                "average": 0.9994608164,
+                "min": 0.9989344478,
+                "variance": 2.770325409e-07
+            },
+            "words": "频次"
+        },
+        {
+            "probability": {
+                "average": 0.9999627471,
+                "min": 0.9999617338,
+                "variance": 1.026734253e-12
+            },
+            "words": "备注"
+        },
+        {
+            "probability": {
+                "average": 0.9999848008,
+                "min": 0.9999754429,
+                "variance": 6.544453868e-11
+            },
+            "words": "药品名称"
+        },
+        {
+            "probability": {
+                "average": 0.9999293685,
+                "min": 0.9998854399,
+                "variance": 1.929723936e-09
+            },
+            "words": "规格"
+        },
+        {
+            "probability": {
+                "average": 0.9999796748,
+                "min": 0.9999789,
+                "variance": 6.004086117e-13
+            },
+            "words": "总量"
+        },
+        {
+            "probability": {
+                "average": 0.9982899427,
+                "min": 0.9975739121,
+                "variance": 5.126998417e-07
+            },
+            "words": "Rp"
+        },
+        {
+            "probability": {
+                "average": 0.999925077,
+                "min": 0.9997147918,
+                "variance": 7.194212781e-09
+            },
+            "words": "80mg*18粒"
+        },
+        {
+            "probability": {
+                "average": 0.9999288321,
+                "min": 0.999912858,
+                "variance": 2.551701073e-10
+            },
+            "words": "6盒"
+        },
+        {
+            "probability": {
+                "average": 0.9986732006,
+                "min": 0.9975562096,
+                "variance": 1.247602313e-06
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9999647141,
+                "min": 0.9998552799,
+                "variance": 3.011351168e-09
+            },
+            "words": "160mg"
+        },
+        {
+            "probability": {
+                "average": 0.9999599457,
+                "min": 0.9999297857,
+                "variance": 6.443627854e-10
+            },
+            "words": "日三次"
+        },
+        {
+            "probability": {
+                "average": 0.999806881,
+                "min": 0.9981803894,
+                "variance": 2.941657726e-07
+            },
+            "words": "中03-02-01/"
+        },
+        {
+            "probability": {
+                "average": 0.9961261749,
+                "min": 0.9852324724,
+                "variance": 3.959936294e-05
+            },
+            "words": "艽龙胶囊"
+        },
+        {
+            "probability": {
+                "average": 0.9305312037,
+                "min": 0.7734036446,
+                "variance": 0.006784023717
+            },
+            "words": "「以下空白]"
+        },
+        {
+            "probability": {
+                "average": 0.9999771118,
+                "min": 0.9998316765,
+                "variance": 1.980943409e-09
+            },
+            "words": "西安交通大学第一附属医院"
+        },
+        {
+            "probability": {
+                "average": 0.9999654889,
+                "min": 0.9998614788,
+                "variance": 2.215049477e-09
+            },
+            "words": "普通门诊处方"
+        },
+        {
+            "probability": {
+                "average": 0.9996125102,
+                "min": 0.998154819,
+                "variance": 5.319722618e-07
+            },
+            "words": "姓名：洪峰"
+        },
+        {
+            "probability": {
+                "average": 0.9999640584,
+                "min": 0.9999239445,
+                "variance": 6.975646727e-10
+            },
+            "words": "性别：男"
+        },
+        {
+            "probability": {
+                "average": 0.9993587136,
+                "min": 0.9938230515,
+                "variance": 3.074455662e-06
+            },
+            "words": "账户余额：51.00元"
+        },
+        {
+            "probability": {
+                "average": 0.9974235892,
+                "min": 0.9926559925,
+                "variance": 1.137801883e-05
+            },
+            "words": "年龄："
+        },
+        {
+            "probability": {
+                "average": 0.9999730587,
+                "min": 0.99994874,
+                "variance": 3.286781125e-10
+            },
+            "words": "68岁"
+        },
+        {
+            "probability": {
+                "average": 0.9997557402,
+                "min": 0.9995631576,
+                "variance": 3.709953944e-08
+            },
+            "words": "西药"
+        },
+        {
+            "probability": {
+                "average": 0.9936501384,
+                "min": 0.9813995957,
+                "variance": 7.504107634e-05
+            },
+            "words": "科别："
+        },
+        {
+            "probability": {
+                "average": 0.9999303818,
+                "min": 0.999783814,
+                "variance": 4.549065569e-09
+            },
+            "words": "消化内科门诊"
+        },
+        {
+            "probability": {
+                "average": 0.9999494553,
+                "min": 0.9998373985,
+                "variance": 4.242110663e-09
+            },
+            "words": "门诊号："
+        },
+        {
+            "probability": {
+                "average": 0.9999947548,
+                "min": 0.9999731779,
+                "variance": 5.561844388e-11
+            },
+            "words": "0011827305"
+        },
+        {
+            "probability": {
+                "average": 0.9952271581,
+                "min": 0.9763821959,
+                "variance": 8.878421795e-05
+            },
+            "words": "就诊时间："
+        },
+        {
+            "probability": {
+                "average": 0.9999956489,
+                "min": 0.9999797344,
+                "variance": 3.073517135e-11
+            },
+            "words": "2024年08月03日"
+        },
+        {
+            "probability": {
+                "average": 0.9997618198,
+                "min": 0.9987899661,
+                "variance": 1.335875339e-07
+            },
+            "words": "临床诊断：慢性萎缩性胃炎"
+        },
+        {
+            "probability": {
+                "average": 0.9998428822,
+                "min": 0.9980815649,
+                "variance": 2.090400528e-07
+            },
+            "words": "巴雷特食管(Barrett食管)"
+        },
+        {
+            "probability": {
+                "average": 0.9999654293,
+                "min": 0.9999006987,
+                "variance": 1.430819907e-09
+            },
+            "words": "药品名称"
+        },
+        {
+            "probability": {
+                "average": 0.9999514222,
+                "min": 0.9999254942,
+                "variance": 6.722622459e-10
+            },
+            "words": "规格"
+        },
+        {
+            "probability": {
+                "average": 0.9999665022,
+                "min": 0.999943614,
+                "variance": 5.238689482e-10
+            },
+            "words": "总量"
+        },
+        {
+            "probability": {
+                "average": 0.9999511838,
+                "min": 0.9999457598,
+                "variance": 2.942002197e-11
+            },
+            "words": "用法"
+        },
+        {
+            "probability": {
+                "average": 0.9998654127,
+                "min": 0.9997752309,
+                "variance": 8.12738854e-09
+            },
+            "words": "用量"
+        },
+        {
+            "probability": {
+                "average": 0.9997659922,
+                "min": 0.9995453954,
+                "variance": 4.86497953e-08
+            },
+            "words": "频次"
+        },
+        {
+            "probability": {
+                "average": 0.9999246001,
+                "min": 0.9999169111,
+                "variance": 5.912070833e-11
+            },
+            "words": "备注"
+        },
+        {
+            "probability": {
+                "average": 0.9985117912,
+                "min": 0.9979536533,
+                "variance": 3.11484655e-07
+            },
+            "words": "Rp"
+        },
+        {
+            "probability": {
+                "average": 0.9982221127,
+                "min": 0.9902290106,
+                "variance": 9.347498235e-06
+            },
+            "words": "[医]替普瑞酮胶囊"
+        },
+        {
+            "probability": {
+                "average": 0.9999761581,
+                "min": 0.9999359846,
+                "variance": 3.910454183e-10
+            },
+            "words": "50mg*80粒"
+        },
+        {
+            "probability": {
+                "average": 0.9996004701,
+                "min": 0.9994713664,
+                "variance": 1.666775518e-08
+            },
+            "words": "1盒"
+        },
+        {
+            "probability": {
+                "average": 0.999474287,
+                "min": 0.9990562797,
+                "variance": 1.747550868e-07
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9998754263,
+                "min": 0.9997722507,
+                "variance": 7.087225029e-09
+            },
+            "words": "50mg"
+        },
+        {
+            "probability": {
+                "average": 0.9998894334,
+                "min": 0.999751389,
+                "variance": 1.027353136e-08
+            },
+            "words": "日三次"
+        },
+        {
+            "probability": {
+                "average": 0.9996064305,
+                "min": 0.9962608218,
+                "variance": 1.244019359e-06
+            },
+            "words": "西09-06-01/"
+        },
+        {
+            "probability": {
+                "average": 0.9966192245,
+                "min": 0.9894741178,
+                "variance": 2.188671533e-05
+            },
+            "words": "[以下空白]"
+        },
+        {
+            "probability": {
+                "average": 0.9991372228,
+                "min": 0.9920788407,
+                "variance": 5.539200629e-06
+            },
+            "words": "医师（签章后有效）："
+        },
+        {
+            "probability": {
+                "average": 0.9998767972,
+                "min": 0.9998438358,
+                "variance": 2.133877075e-09
+            },
+            "words": "王粉荣"
+        },
+        {
+            "probability": {
+                "average": 0.9419881701,
+                "min": 0.9419881701,
+                "variance": 0
+            },
+            "words": "王"
+        },
+        {
+            "probability": {
+                "average": 0.9711838961,
+                "min": 0.8853823543,
+                "variance": 0.001854854869
+            },
+            "words": "审核调配："
+        },
+        {
+            "probability": {
+                "average": 0.9997203946,
+                "min": 0.9984051585,
+                "variance": 3.46030248e-07
+            },
+            "words": "核对/发药："
+        },
+        {
+            "probability": {
+                "average": 0.9998375773,
+                "min": 0.999260962,
+                "variance": 8.370559357e-08
+            },
+            "words": "医院公章："
+        },
+        {
+            "probability": {
+                "average": 0.9998780489,
+                "min": 0.9991539717,
+                "variance": 6.646148165e-08
+            },
+            "words": "药费：91.64元"
+        },
+        {
+            "probability": {
+                "average": 0.997725904,
+                "min": 0.9871506691,
+                "variance": 2.237258013e-05
+            },
+            "words": "【温馨提示】"
+        },
+        {
+            "probability": {
+                "average": 0.9998226166,
+                "min": 0.9993488193,
+                "variance": 5.716833584e-08
+            },
+            "words": "超量原因："
+        },
+        {
+            "probability": {
+                "average": 0.9993159771,
+                "min": 0.9973657727,
+                "variance": 8.02192119e-07
+            },
+            "words": "1.处方当日有效；"
+        },
+        {
+            "probability": {
+                "average": 0.8136017919,
+                "min": 0.4199495912,
+                "variance": 0.04322737828
+            },
+            "words": ".发出药只不予退换，"
+        }
+    ],
+    "words_result_num": 106,
+    "direction": 0,
+    "log_id": 1929384181999971646
+}

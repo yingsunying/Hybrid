@@ -1,0 +1,271 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9999700189,
+                "min": 0.9997606874,
+                "variance": 3.029951401e-09
+            },
+            "words": "南方医科大学南方医院门诊中药处方笺"
+        },
+        {
+            "probability": {
+                "average": 0.9999018312,
+                "min": 0.9995419979,
+                "variance": 2.583838921e-08
+            },
+            "words": "病人类型：自费"
+        },
+        {
+            "probability": {
+                "average": 0.9999605417,
+                "min": 0.9998806715,
+                "variance": 1.887897838e-09
+            },
+            "words": "医保卡号："
+        },
+        {
+            "probability": {
+                "average": 0.9999838471,
+                "min": 0.9999049902,
+                "variance": 5.088178767e-10
+            },
+            "words": "处方号：024061726488"
+        },
+        {
+            "probability": {
+                "average": 0.9995868802,
+                "min": 0.9990561604,
+                "variance": 1.103797516e-07
+            },
+            "words": "姓名：王洋洋"
+        },
+        {
+            "probability": {
+                "average": 0.9989258051,
+                "min": 0.9940227866,
+                "variance": 2.885725053e-06
+            },
+            "words": "性别：女年龄：33岁"
+        },
+        {
+            "probability": {
+                "average": 0.9953910112,
+                "min": 0.9677299261,
+                "variance": 0.0001002204735
+            },
+            "words": "ID号：12345"
+        },
+        {
+            "probability": {
+                "average": 0.9999562502,
+                "min": 0.9998749495,
+                "variance": 1.290380358e-09
+            },
+            "words": "科室：中医内科门诊"
+        },
+        {
+            "probability": {
+                "average": 0.994538486,
+                "min": 0.9548429847,
+                "variance": 9.001215221e-05
+            },
+            "words": "临床诊断：1.胃肠功能紊乱，2.脾胃气虚证具3日胃肠型感06月17日"
+        },
+        {
+            "probability": {
+                "average": 0.9997789264,
+                "min": 0.9995718598,
+                "variance": 1.871466715e-08
+            },
+            "words": "住址：默认地址"
+        },
+        {
+            "probability": {
+                "average": 0.9997803569,
+                "min": 0.9993226528,
+                "variance": 6.053600288e-08
+            },
+            "words": "电话：123456"
+        },
+        {
+            "probability": {
+                "average": 0.9990103245,
+                "min": 0.9987863898,
+                "variance": 5.013338011e-08
+            },
+            "words": "Rp"
+        },
+        {
+            "probability": {
+                "average": 0.9983060956,
+                "min": 0.9919290543,
+                "variance": 1.017584873e-05
+            },
+            "words": "A05葛根"
+        },
+        {
+            "probability": {
+                "average": 0.9997417927,
+                "min": 0.9995730519,
+                "variance": 1.937218208e-08
+            },
+            "words": "45g"
+        },
+        {
+            "probability": {
+                "average": 0.9835925102,
+                "min": 0.918817997,
+                "variance": 0.00104895304
+            },
+            "words": "A01麻黄"
+        },
+        {
+            "probability": {
+                "average": 0.9998732209,
+                "min": 0.9998440742,
+                "variance": 8.495284476e-10
+            },
+            "words": "5g"
+        },
+        {
+            "probability": {
+                "average": 0.9896570444,
+                "min": 0.9509833455,
+                "variance": 0.0003744372807
+            },
+            "words": "A01桂枝"
+        },
+        {
+            "probability": {
+                "average": 0.9999648929,
+                "min": 0.9999383688,
+                "variance": 3.711152774e-10
+            },
+            "words": "10g"
+        },
+        {
+            "probability": {
+                "average": 0.9592837095,
+                "min": 0.7987036109,
+                "variance": 0.006446710322
+            },
+            "words": "C01白芍"
+        },
+        {
+            "probability": {
+                "average": 0.9999429584,
+                "min": 0.9998927116,
+                "variance": 1.443741127e-09
+            },
+            "words": "10g"
+        },
+        {
+            "probability": {
+                "average": 0.978433013,
+                "min": 0.8948557973,
+                "variance": 0.001747180009
+            },
+            "words": "E03大枣"
+        },
+        {
+            "probability": {
+                "average": 0.9944036603,
+                "min": 0.9836384058,
+                "variance": 5.795706602e-05
+            },
+            "words": "25)"
+        },
+        {
+            "probability": {
+                "average": 0.9475789666,
+                "min": 0.6864527464,
+                "variance": 0.01363741234
+            },
+            "words": "C02炙甘草"
+        },
+        {
+            "probability": {
+                "average": 0.999728322,
+                "min": 0.9996328354,
+                "variance": 9.112008925e-09
+            },
+            "words": "5g"
+        },
+        {
+            "probability": {
+                "average": 0.9918563366,
+                "min": 0.9918563366,
+                "variance": 0
+            },
+            "words": "十"
+        },
+        {
+            "probability": {
+                "average": 0.7696512938,
+                "min": 0.7696512938,
+                "variance": 0
+            },
+            "words": "("
+        },
+        {
+            "probability": {
+                "average": 0.9477686882,
+                "min": 0.845968008,
+                "variance": 0.005182672292
+            },
+            "words": "X2付"
+        },
+        {
+            "probability": {
+                "average": 0.9990561008,
+                "min": 0.9861925244,
+                "variance": 1.104452986e-05
+            },
+            "words": "用法：1剂/日，每次：200ml"
+        },
+        {
+            "probability": {
+                "average": 0.9996903539,
+                "min": 0.998452425,
+                "variance": 2.335289793e-07
+            },
+            "words": "水煎二次合并早晚分服"
+        },
+        {
+            "probability": {
+                "average": 0.9989640713,
+                "min": 0.9969674945,
+                "variance": 1.99330816e-06
+            },
+            "words": "医生："
+        },
+        {
+            "probability": {
+                "average": 0.9999124408,
+                "min": 0.9996088147,
+                "variance": 1.397171445e-08
+            },
+            "words": "药品金额：9.69元"
+        },
+        {
+            "probability": {
+                "average": 0.9997414947,
+                "min": 0.9993478656,
+                "variance": 5.408167425e-08
+            },
+            "words": "配药人："
+        },
+        {
+            "probability": {
+                "average": 0.9994559884,
+                "min": 0.998057425,
+                "variance": 6.531833492e-07
+            },
+            "words": "核对人："
+        }
+    ],
+    "words_result_num": 33,
+    "direction": 0,
+    "log_id": 1929384218642475199
+}

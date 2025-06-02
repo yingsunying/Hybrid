@@ -1,0 +1,543 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9999021292,
+                "min": 0.9998980761,
+                "variance": 1.642774805e-11
+            },
+            "words": "条形"
+        },
+        {
+            "probability": {
+                "average": 0.9984821677,
+                "min": 0.9984821677,
+                "variance": 0
+            },
+            "words": "码"
+        },
+        {
+            "probability": {
+                "average": 0.9999278188,
+                "min": 0.9994732738,
+                "variance": 9.374089949e-09
+            },
+            "words": "取药指引：缴费后请到门诊A区西药房先报到后取药（保健科处方除外）"
+        },
+        {
+            "probability": {
+                "average": 0.9999717474,
+                "min": 0.9999080896,
+                "variance": 8.281466068e-10
+            },
+            "words": "中山大学孙逸仙纪念医院"
+        },
+        {
+            "probability": {
+                "average": 0.9999439716,
+                "min": 0.9999339581,
+                "variance": 1.002717909e-10
+            },
+            "words": "普通"
+        },
+        {
+            "probability": {
+                "average": 0.998281002,
+                "min": 0.9966652989,
+                "variance": 2.610400315e-06
+            },
+            "words": "微信"
+        },
+        {
+            "probability": {
+                "average": 0.9956727028,
+                "min": 0.9913670421,
+                "variance": 1.853845788e-05
+            },
+            "words": "挂号"
+        },
+        {
+            "probability": {
+                "average": 0.9999060631,
+                "min": 0.9995265007,
+                "variance": 2.436248003e-08
+            },
+            "words": "门诊西药处方笺"
+        },
+        {
+            "probability": {
+                "average": 0.9999952316,
+                "min": 0.9999750853,
+                "variance": 6.010481002e-11
+            },
+            "words": "X209249963"
+        },
+        {
+            "probability": {
+                "average": 0.9998906255,
+                "min": 0.9994370341,
+                "variance": 2.951566991e-08
+            },
+            "words": "7247467报到码"
+        },
+        {
+            "probability": {
+                "average": 0.9999868274,
+                "min": 0.9999718666,
+                "variance": 8.942393354e-11
+            },
+            "words": "医保卡号："
+        },
+        {
+            "probability": {
+                "average": 0.9930305481,
+                "min": 0.9668970108,
+                "variance": 0.0001708651835
+            },
+            "words": "费别:自费"
+        },
+        {
+            "probability": {
+                "average": 0.9999268651,
+                "min": 0.9997619987,
+                "variance": 6.617597581e-09
+            },
+            "words": "姓名：陈文婷"
+        },
+        {
+            "probability": {
+                "average": 0.9998958111,
+                "min": 0.9996489286,
+                "variance": 2.040420455e-08
+            },
+            "words": "性别：女"
+        },
+        {
+            "probability": {
+                "average": 0.999977529,
+                "min": 0.9999101162,
+                "variance": 9.732623596e-10
+            },
+            "words": "年龄：31岁"
+        },
+        {
+            "probability": {
+                "average": 0.9997221231,
+                "min": 0.9992977381,
+                "variance": 9.17676175e-08
+            },
+            "words": "自负比例："
+        },
+        {
+            "probability": {
+                "average": 0.9999103546,
+                "min": 0.9997686744,
+                "variance": 4.437235912e-09
+            },
+            "words": "诊疗卡号：6002515261"
+        },
+        {
+            "probability": {
+                "average": 0.9997862577,
+                "min": 0.9987535477,
+                "variance": 1.785244166e-07
+            },
+            "words": "科别：呼吸内科"
+        },
+        {
+            "probability": {
+                "average": 0.9987055659,
+                "min": 0.9962844849,
+                "variance": 2.932377129e-06
+            },
+            "words": "限额："
+        },
+        {
+            "probability": {
+                "average": 0.9999736547,
+                "min": 0.9998452663,
+                "variance": 2.105699615e-09
+            },
+            "words": "开具日期：2023年08月30日"
+        },
+        {
+            "probability": {
+                "average": 0.9999117255,
+                "min": 0.9997493625,
+                "variance": 5.761116029e-09
+            },
+            "words": "主诊医生：陈瑞"
+        },
+        {
+            "probability": {
+                "average": 0.9994914532,
+                "min": 0.9981771708,
+                "variance": 3.608433587e-07
+            },
+            "words": "临床诊断：1.哮喘"
+        },
+        {
+            "probability": {
+                "average": 0.9999222159,
+                "min": 0.9994254112,
+                "variance": 1.853930165e-08
+            },
+            "words": "电话/住址：13824560049/广东省兴宁市宁中镇鸭桥村井尾屋"
+        },
+        {
+            "probability": {
+                "average": 0.9865287542,
+                "min": 0.9865287542,
+                "variance": 0
+            },
+            "words": "银"
+        },
+        {
+            "probability": {
+                "average": 0.999191761,
+                "min": 0.998667717,
+                "variance": 2.74653388e-07
+            },
+            "words": "Rp"
+        },
+        {
+            "probability": {
+                "average": 0.997777164,
+                "min": 0.9939261079,
+                "variance": 5.103071999e-06
+            },
+            "words": "中山大学"
+        },
+        {
+            "probability": {
+                "average": 0.9999435544,
+                "min": 0.9997515082,
+                "variance": 4.570034129e-09
+            },
+            "words": "1、布地奈德福莫特罗吸入剂160/4.5"
+        },
+        {
+            "probability": {
+                "average": 0.9994567037,
+                "min": 0.9969817996,
+                "variance": 1.226884365e-06
+            },
+            "words": "60吸×1瓶"
+        },
+        {
+            "probability": {
+                "average": 0.9903362989,
+                "min": 0.9857513309,
+                "variance": 2.102193321e-05
+            },
+            "words": "用)"
+        },
+        {
+            "probability": {
+                "average": 0.9980883598,
+                "min": 0.9687845707,
+                "variance": 5.367807898e-05
+            },
+            "words": "Sig.1吸吸入（无收费）每日两次"
+        },
+        {
+            "probability": {
+                "average": 0.9997897148,
+                "min": 0.9993602633,
+                "variance": 4.942009468e-08
+            },
+            "words": "41344"
+        },
+        {
+            "probability": {
+                "average": 0.9997603893,
+                "min": 0.9987039566,
+                "variance": 1.505434284e-07
+            },
+            "words": "2、(国产)依巴斯汀片"
+        },
+        {
+            "probability": {
+                "average": 0.9999423623,
+                "min": 0.999741137,
+                "variance": 6.64374511e-09
+            },
+            "words": "10mg×24片(1盒)"
+        },
+        {
+            "probability": {
+                "average": 0.993933022,
+                "min": 0.9818969965,
+                "variance": 4.909784548e-05
+            },
+            "words": ":0208F"
+        },
+        {
+            "probability": {
+                "average": 0.9998981357,
+                "min": 0.9997131228,
+                "variance": 1.177977538e-08
+            },
+            "words": "202308"
+        },
+        {
+            "probability": {
+                "average": 0.9997432232,
+                "min": 0.9985861778,
+                "variance": 2.056924018e-07
+            },
+            "words": "Sig.10mg"
+        },
+        {
+            "probability": {
+                "average": 0.9999057651,
+                "min": 0.9996671677,
+                "variance": 1.354905255e-08
+            },
+            "words": "口服每日一次"
+        },
+        {
+            "probability": {
+                "average": 0.9731178284,
+                "min": 0.9194150567,
+                "variance": 0.001441995497
+            },
+            "words": ":中国"
+        },
+        {
+            "probability": {
+                "average": 0.9989383221,
+                "min": 0.9948863387,
+                "variance": 3.312703484e-06
+            },
+            "words": "期：0000"
+        },
+        {
+            "probability": {
+                "average": 0.9998609424,
+                "min": 0.9993757606,
+                "variance": 5.447954621e-08
+            },
+            "words": "3、布地奈德鼻喷雾剂"
+        },
+        {
+            "probability": {
+                "average": 0.9998388886,
+                "min": 0.9994053841,
+                "variance": 6.265439367e-08
+            },
+            "words": "120喷"
+        },
+        {
+            "probability": {
+                "average": 0.9943862557,
+                "min": 0.9834323525,
+                "variance": 4.031290882e-05
+            },
+            "words": ":(借)"
+        },
+        {
+            "probability": {
+                "average": 0.9961624742,
+                "min": 0.9529646039,
+                "variance": 0.0001555479685
+            },
+            "words": "Sig.1喷喷鼻用每日两次"
+        },
+        {
+            "probability": {
+                "average": 0.8878830671,
+                "min": 0.5373573303,
+                "variance": 0.0321425721
+            },
+            "words": "2175F"
+        },
+        {
+            "probability": {
+                "average": 0.9420613647,
+                "min": 0.799633801,
+                "variance": 0.006947459187
+            },
+            "words": "--以下为空"
+        },
+        {
+            "probability": {
+                "average": 0.9554889798,
+                "min": 0.8693674207,
+                "variance": 0.003708472475
+            },
+            "words": "交易类"
+        },
+        {
+            "probability": {
+                "average": 0.7603949308,
+                "min": 0.3267372251,
+                "variance": 0.06739877164
+            },
+            "words": "易证次易镜"
+        },
+        {
+            "probability": {
+                "average": 0.9802024364,
+                "min": 0.9570184946,
+                "variance": 0.0003127995587
+            },
+            "words": "凭批交"
+        },
+        {
+            "probability": {
+                "average": 0.9940702319,
+                "min": 0.9882501364,
+                "variance": 3.387351171e-05
+            },
+            "words": "金备"
+        },
+        {
+            "probability": {
+                "average": 0.9986441135,
+                "min": 0.9960559607,
+                "variance": 2.273258815e-06
+            },
+            "words": "(89)"
+        },
+        {
+            "probability": {
+                "average": 0.9871477485,
+                "min": 0.9628908634,
+                "variance": 0.0002944731386
+            },
+            "words": "123"
+        },
+        {
+            "probability": {
+                "average": 0.9997966886,
+                "min": 0.9994595647,
+                "variance": 5.722633389e-08
+            },
+            "words": "医师："
+        },
+        {
+            "probability": {
+                "average": 0.9993208647,
+                "min": 0.9986897111,
+                "variance": 3.983172405e-07
+            },
+            "words": "陈瑞"
+        },
+        {
+            "probability": {
+                "average": 0.9985004663,
+                "min": 0.9941798449,
+                "variance": 6.226221558e-06
+            },
+            "words": "品金额："
+        },
+        {
+            "probability": {
+                "average": 0.9996666312,
+                "min": 0.9977060556,
+                "variance": 6.407576052e-07
+            },
+            "words": "￥249.51"
+        },
+        {
+            "probability": {
+                "average": 0.9995633364,
+                "min": 0.9983048439,
+                "variance": 5.279536026e-07
+            },
+            "words": "注射费："
+        },
+        {
+            "probability": {
+                "average": 0.9998832941,
+                "min": 0.999743402,
+                "variance": 7.653623513e-09
+            },
+            "words": "审核药师："
+        },
+        {
+            "probability": {
+                "average": 0.999838829,
+                "min": 0.9991868138,
+                "variance": 7.283399128e-08
+            },
+            "words": "调配药师/士："
+        },
+        {
+            "probability": {
+                "average": 0.999930799,
+                "min": 0.9997367263,
+                "variance": 6.286778653e-09
+            },
+            "words": "核对、发药药师："
+        },
+        {
+            "probability": {
+                "average": 0.9998183846,
+                "min": 0.9990925789,
+                "variance": 4.315140245e-08
+            },
+            "words": "2023-08-3014:56:26"
+        },
+        {
+            "probability": {
+                "average": 0.9999167919,
+                "min": 0.9997848868,
+                "variance": 4.133509979e-09
+            },
+            "words": "处方开具当日有效"
+        },
+        {
+            "probability": {
+                "average": 0.9997829199,
+                "min": 0.9995292425,
+                "variance": 2.818634037e-08
+            },
+            "words": "西药1/1"
+        },
+        {
+            "probability": {
+                "average": 0.9999731183,
+                "min": 0.9999147654,
+                "variance": 6.213574655e-10
+            },
+            "words": "流水号：2023-08-30-5024"
+        },
+        {
+            "probability": {
+                "average": 0.9998865128,
+                "min": 0.9995499253,
+                "variance": 1.700479935e-08
+            },
+            "words": "【经数字签名认证】"
+        },
+        {
+            "probability": {
+                "average": 0.9998974204,
+                "min": 0.9997517467,
+                "variance": 5.450718543e-09
+            },
+            "words": "第1页/共1页"
+        },
+        {
+            "probability": {
+                "average": 0.9489513636,
+                "min": 0.7563405633,
+                "variance": 0.009291981347
+            },
+            "words": "联系地址："
+        },
+        {
+            "probability": {
+                "average": 0.8438413739,
+                "min": 0.7948416471,
+                "variance": 0.002400973113
+            },
+            "words": "系电"
+        }
+    ],
+    "words_result_num": 67,
+    "direction": 0,
+    "log_id": 1929384213331876359
+}

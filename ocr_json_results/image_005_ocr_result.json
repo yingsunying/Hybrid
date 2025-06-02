@@ -1,0 +1,295 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.999943018,
+                "min": 0.9998793602,
+                "variance": 1.582510123e-09
+            },
+            "words": "门诊病历"
+        },
+        {
+            "probability": {
+                "average": 0.9998218417,
+                "min": 0.9993728995,
+                "variance": 6.747084313e-08
+            },
+            "words": "性别：男"
+        },
+        {
+            "probability": {
+                "average": 0.9999519587,
+                "min": 0.9998041987,
+                "variance": 5.536441527e-09
+            },
+            "words": "年龄：6岁"
+        },
+        {
+            "probability": {
+                "average": 0.999853611,
+                "min": 0.9994569421,
+                "variance": 5.252098134e-08
+            },
+            "words": "登记号："
+        },
+        {
+            "probability": {
+                "average": 0.9999707937,
+                "min": 0.9999707937,
+                "variance": 0
+            },
+            "words": "4"
+        },
+        {
+            "probability": {
+                "average": 0.979641974,
+                "min": 0.879629612,
+                "variance": 0.002000622451
+            },
+            "words": "姓名：王洋洋"
+        },
+        {
+            "probability": {
+                "average": 0.9999172091,
+                "min": 0.9996243715,
+                "variance": 2.150518696e-08
+            },
+            "words": "联系电话："
+        },
+        {
+            "probability": {
+                "average": 0.9999530911,
+                "min": 0.9998424053,
+                "variance": 3.4394112e-09
+            },
+            "words": "身份证号："
+        },
+        {
+            "probability": {
+                "average": 0.999728322,
+                "min": 0.9995191097,
+                "variance": 1.714885478e-08
+            },
+            "words": "现住址："
+        },
+        {
+            "probability": {
+                "average": 0.9996643066,
+                "min": 0.9974266887,
+                "variance": 6.285694667e-07
+            },
+            "words": "就诊科室：儿科门诊"
+        },
+        {
+            "probability": {
+                "average": 0.9999445081,
+                "min": 0.9998389482,
+                "variance": 3.723882314e-09
+            },
+            "words": "就诊日期：2"
+        },
+        {
+            "probability": {
+                "average": 0.9997887015,
+                "min": 0.9991833568,
+                "variance": 9.902372966e-08
+            },
+            "words": "主诉：发热3天"
+        },
+        {
+            "probability": {
+                "average": 0.9997889996,
+                "min": 0.9962367415,
+                "variance": 3.931091896e-07
+            },
+            "words": "现病史：患儿发热，测体温最高39.0℃，热峰3次/日，有痰偶咳，时有鼻塞"
+        },
+        {
+            "probability": {
+                "average": 0.9997224212,
+                "min": 0.9970774651,
+                "variance": 3.559085826e-07
+            },
+            "words": "、打喷嚏，无紫绀、惊厥、声嘶、皮疹、腹泻、烦躁不安。大便正常。“布洛"
+        },
+        {
+            "probability": {
+                "average": 0.9996022582,
+                "min": 0.9974789023,
+                "variance": 3.958216155e-07
+            },
+            "words": "芬氨酚黄头孢小儿定喘小儿柴桂”"
+        },
+        {
+            "probability": {
+                "average": 0.9999206662,
+                "min": 0.9996920824,
+                "variance": 6.983623901e-09
+            },
+            "words": "既往史：14天未到过中高风险地区，无疫源接触史。"
+        },
+        {
+            "probability": {
+                "average": 0.9997940063,
+                "min": 0.9986137152,
+                "variance": 1.053609608e-07
+            },
+            "words": "查体：神志清楚，精神可，结膜微充血，口唇红干，舌苔微白厚舌边尖红，咽"
+        },
+        {
+            "probability": {
+                "average": 0.9994064569,
+                "min": 0.9840975404,
+                "variance": 7.208001989e-06
+            },
+            "words": "充血明显，双侧扁桃体Ⅱ度肿大，双肺呼吸音粗，未闻及干湿性啰音，心腹检"
+        },
+        {
+            "probability": {
+                "average": 0.999114573,
+                "min": 0.9953391552,
+                "variance": 2.86963791e-06
+            },
+            "words": "查未见异常。"
+        },
+        {
+            "probability": {
+                "average": 0.9997496605,
+                "min": 0.9950057864,
+                "variance": 7.846072663e-07
+            },
+            "words": "辅助检查：2024-04-02血细胞分析五分类（末梢血）+C反应蛋白（末梢血）："
+        },
+        {
+            "probability": {
+                "average": 0.9721760154,
+                "min": 0.5604994297,
+                "variance": 0.007064208388
+            },
+            "words": "MCHC 311g/L,PDW 10.4fL,P-LCR 22.2%，EO# 0.00*X109/L,E0% 0.0%，"
+        },
+        {
+            "probability": {
+                "average": 0.9997624159,
+                "min": 0.9989547729,
+                "variance": 1.634972477e-07
+            },
+            "words": "门诊诊断："
+        },
+        {
+            "probability": {
+                "average": 0.9999526739,
+                "min": 0.9999120235,
+                "variance": 1.652452397e-09
+            },
+            "words": "发热"
+        },
+        {
+            "probability": {
+                "average": 0.9999138713,
+                "min": 0.9998266101,
+                "variance": 3.004836824e-09
+            },
+            "words": "支气管肺炎"
+        },
+        {
+            "probability": {
+                "average": 0.999381125,
+                "min": 0.9982914329,
+                "variance": 5.937869219e-07
+            },
+            "words": "处置："
+        },
+        {
+            "probability": {
+                "average": 0.9996359944,
+                "min": 0.9983497858,
+                "variance": 2.352098392e-07
+            },
+            "words": "1.胸部DR[胸部正位]"
+        },
+        {
+            "probability": {
+                "average": 0.999797523,
+                "min": 0.9979502559,
+                "variance": 2.758064852e-07
+            },
+            "words": "2.血细胞分析五分类（末梢血），C反应蛋白（末梢血）"
+        },
+        {
+            "probability": {
+                "average": 0.9976133704,
+                "min": 0.948862195,
+                "variance": 9.227728879e-05
+            },
+            "words": "3.麻黄5g,炒苦杏仁10g,石膏30g,瓜蒌10g,"
+        },
+        {
+            "probability": {
+                "average": 0.9987339377,
+                "min": 0.9906435609,
+                "variance": 6.335669241e-06
+            },
+            "words": "芦根10g,知母10g,白芍10g,炒莱菔子15g,"
+        },
+        {
+            "probability": {
+                "average": 0.9978566766,
+                "min": 0.9708913565,
+                "variance": 3.279517477e-05
+            },
+            "words": "紫苏子10g,炒枳实6g,蝉衣10g,僵蚕10g,"
+        },
+        {
+            "probability": {
+                "average": 0.999017477,
+                "min": 0.9956635833,
+                "variance": 1.902688723e-06
+            },
+            "words": "炒麦芽15g,百部10g,桔梗6g,炙甘草3g"
+        },
+        {
+            "probability": {
+                "average": 0.9999631047,
+                "min": 0.9999201298,
+                "variance": 9.424674374e-10
+            },
+            "words": "3副，水煎服"
+        },
+        {
+            "probability": {
+                "average": 0.9999306202,
+                "min": 0.9993935823,
+                "variance": 1.543343586e-08
+            },
+            "words": "如体温超过38.5℃，予以“布洛芬或泰诺林”退热。多饮水，忌食"
+        },
+        {
+            "probability": {
+                "average": 0.9999124408,
+                "min": 0.9992468357,
+                "variance": 2.795552412e-08
+            },
+            "words": "生冷、油腻、肉、甜食。不适时随时复诊。"
+        },
+        {
+            "probability": {
+                "average": 0.8427870274,
+                "min": 0.5112851262,
+                "variance": 0.0416421704
+            },
+            "words": "2月后热返."
+        },
+        {
+            "probability": {
+                "average": 0.9996273518,
+                "min": 0.9992628694,
+                "variance": 1.328257042e-07
+            },
+            "words": "医师"
+        }
+    ],
+    "words_result_num": 36,
+    "direction": 0,
+    "log_id": 1929384192790880626
+}

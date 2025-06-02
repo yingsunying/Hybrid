@@ -1,0 +1,319 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9994539022,
+                "min": 0.9984140396,
+                "variance": 3.176136261e-07
+            },
+            "words": "取药签到码"
+        },
+        {
+            "probability": {
+                "average": 0.9999421835,
+                "min": 0.9996858835,
+                "variance": 1.105436631e-08
+            },
+            "words": "榆林市第一医院"
+        },
+        {
+            "probability": {
+                "average": 0.9995409846,
+                "min": 0.9987181425,
+                "variance": 9.859024175e-08
+            },
+            "words": "202204130441"
+        },
+        {
+            "probability": {
+                "average": 0.9996595979,
+                "min": 0.9968835711,
+                "variance": 6.583960612e-07
+            },
+            "words": "NO:24003897483"
+        },
+        {
+            "probability": {
+                "average": 0.9998805523,
+                "min": 0.999722898,
+                "variance": 1.328265054e-08
+            },
+            "words": "处方笺"
+        },
+        {
+            "probability": {
+                "average": 0.9985294342,
+                "min": 0.9985294342,
+                "variance": 0
+            },
+            "words": "普"
+        },
+        {
+            "probability": {
+                "average": 0.999802351,
+                "min": 0.9992584586,
+                "variance": 6.525053209e-08
+            },
+            "words": "姓名：曹晓娥"
+        },
+        {
+            "probability": {
+                "average": 0.9999241829,
+                "min": 0.9998432398,
+                "variance": 4.204093074e-09
+            },
+            "words": "性别：女"
+        },
+        {
+            "probability": {
+                "average": 0.9998219013,
+                "min": 0.9994515777,
+                "variance": 4.25838671e-08
+            },
+            "words": "年龄：39岁"
+        },
+        {
+            "probability": {
+                "average": 0.999874711,
+                "min": 0.9986214638,
+                "variance": 1.058983941e-07
+            },
+            "words": "门诊号：202204130441"
+        },
+        {
+            "probability": {
+                "average": 0.9999423027,
+                "min": 0.9999051094,
+                "variance": 1.14250065e-09
+            },
+            "words": "全自费"
+        },
+        {
+            "probability": {
+                "average": 0.9996362925,
+                "min": 0.9986793399,
+                "variance": 3.05638963e-07
+            },
+            "words": "住院号："
+        },
+        {
+            "probability": {
+                "average": 0.9998915195,
+                "min": 0.9995856881,
+                "variance": 1.577343411e-08
+            },
+            "words": "科室：榆林耳鼻喉科"
+        },
+        {
+            "probability": {
+                "average": 0.9993969202,
+                "min": 0.9985086322,
+                "variance": 2.764836324e-07
+            },
+            "words": "页码：1"
+        },
+        {
+            "probability": {
+                "average": 0.9998578429,
+                "min": 0.999743402,
+                "variance": 7.004816727e-09
+            },
+            "words": "床号："
+        },
+        {
+            "probability": {
+                "average": 0.9993813038,
+                "min": 0.9942584038,
+                "variance": 1.739701702e-06
+            },
+            "words": "诊断：(J37.001)慢性喉咽炎，"
+        },
+        {
+            "probability": {
+                "average": 0.999820888,
+                "min": 0.9975479245,
+                "variance": 3.974295453e-07
+            },
+            "words": "日期：2024年12月09日"
+        },
+        {
+            "probability": {
+                "average": 0.9998140931,
+                "min": 0.9998140931,
+                "variance": 0
+            },
+            "words": "R"
+        },
+        {
+            "probability": {
+                "average": 0.999737978,
+                "min": 0.9974215031,
+                "variance": 2.319725496e-07
+            },
+            "words": "盐酸非索非那定片60mg*12片/盒（非那康）每次60mg"
+        },
+        {
+            "probability": {
+                "average": 0.9714595675,
+                "min": 0.9465991259,
+                "variance": 0.0004729180364
+            },
+            "words": "(1)"
+        },
+        {
+            "probability": {
+                "average": 0.999995172,
+                "min": 0.9999946356,
+                "variance": 1.93030772e-13
+            },
+            "words": "24片"
+        },
+        {
+            "probability": {
+                "average": 0.9996215701,
+                "min": 0.9992720485,
+                "variance": 8.014507813e-08
+            },
+            "words": "用法："
+        },
+        {
+            "probability": {
+                "average": 0.9998936653,
+                "min": 0.9996110797,
+                "variance": 2.665604271e-08
+            },
+            "words": "每天二次"
+        },
+        {
+            "probability": {
+                "average": 0.9994549751,
+                "min": 0.9990497231,
+                "variance": 1.642050051e-07
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.999138236,
+                "min": 0.9852687716,
+                "variance": 1.016316673e-05
+            },
+            "words": "疏风解毒胶囊【基】0.52g*36粒/盒"
+        },
+        {
+            "probability": {
+                "average": 0.9998716712,
+                "min": 0.9995303154,
+                "variance": 2.633287188e-08
+            },
+            "words": "每次1.5g"
+        },
+        {
+            "probability": {
+                "average": 0.9789493084,
+                "min": 0.9471037984,
+                "variance": 0.000510503538
+            },
+            "words": "(3)"
+        },
+        {
+            "probability": {
+                "average": 0.9999129772,
+                "min": 0.9998588562,
+                "variance": 1.818694528e-09
+            },
+            "words": "108粒"
+        },
+        {
+            "probability": {
+                "average": 0.9996587634,
+                "min": 0.9992095232,
+                "variance": 1.018365197e-07
+            },
+            "words": "用法："
+        },
+        {
+            "probability": {
+                "average": 0.999864459,
+                "min": 0.9996412992,
+                "variance": 1.842010988e-08
+            },
+            "words": "每天三次"
+        },
+        {
+            "probability": {
+                "average": 0.9994670153,
+                "min": 0.9992502332,
+                "variance": 4.700739709e-08
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9999786615,
+                "min": 0.9999449253,
+                "variance": 3.876508003e-10
+            },
+            "words": "医生签名"
+        },
+        {
+            "probability": {
+                "average": 0.9858081937,
+                "min": 0.9576128125,
+                "variance": 0.0003974919964
+            },
+            "words": "柳林整"
+        },
+        {
+            "probability": {
+                "average": 0.9998865128,
+                "min": 0.9997851253,
+                "variance": 4.670377418e-09
+            },
+            "words": "审核调配药师"
+        },
+        {
+            "probability": {
+                "average": 0.99976331,
+                "min": 0.9993196726,
+                "variance": 9.844202964e-08
+            },
+            "words": "药品费"
+        },
+        {
+            "probability": {
+                "average": 0.9999849796,
+                "min": 0.9999408722,
+                "variance": 4.191610115e-10
+            },
+            "words": "164.76"
+        },
+        {
+            "probability": {
+                "average": 0.9998849034,
+                "min": 0.9995013475,
+                "variance": 2.979113845e-08
+            },
+            "words": "复核发药药师"
+        },
+        {
+            "probability": {
+                "average": 0.9971165061,
+                "min": 0.9498994946,
+                "variance": 7.413778076e-05
+            },
+            "words": "药师提醒：1、请缴费后拿处方去一楼门诊药房签到、等待叫号取药；2、请核对药品，"
+        },
+        {
+            "probability": {
+                "average": 0.9633153081,
+                "min": 0.6418834925,
+                "variance": 0.008366350085
+            },
+            "words": "并按要求储存；3、处方当日有效；4、发出药品不予退换"
+        }
+    ],
+    "words_result_num": 39,
+    "direction": 0,
+    "log_id": 1929384187008106175
+}

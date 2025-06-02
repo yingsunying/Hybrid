@@ -1,3 +1,18 @@
+langchain==0.1.0
+langchain-core==0.1.0
+langchain-google-genai==1.0.0
+
+google-generativeai==0.3.0
+
+pydantic==2.5.0
+python-dotenv==1.0.0
+
+# 基础工具
+pathlib
+json
+glob
+datetime
+typing
 PyPDF2==3.0.1
 pdf2image==1.16.3
 Pillow==10.0.0

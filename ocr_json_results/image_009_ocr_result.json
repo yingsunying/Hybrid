@@ -1,0 +1,407 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9999813437,
+                "min": 0.9999415874,
+                "variance": 3.784828284e-10
+            },
+            "words": "保定德正中医门诊部"
+        },
+        {
+            "probability": {
+                "average": 0.9998657703,
+                "min": 0.9997000694,
+                "variance": 1.461549459e-08
+            },
+            "words": "处方笺"
+        },
+        {
+            "probability": {
+                "average": 0.9999459982,
+                "min": 0.9998243451,
+                "variance": 3.18580673e-09
+            },
+            "words": "姓名：代梦凡女20岁"
+        },
+        {
+            "probability": {
+                "average": 0.999969244,
+                "min": 0.9998862743,
+                "variance": 8.897144688e-10
+            },
+            "words": "诊号：00023817"
+        },
+        {
+            "probability": {
+                "average": 0.9894536138,
+                "min": 0.9683976173,
+                "variance": 0.0002216771099
+            },
+            "words": "科室："
+        },
+        {
+            "probability": {
+                "average": 0.9999706745,
+                "min": 0.999876976,
+                "variance": 1.252950299e-09
+            },
+            "words": "日期：2025-01-06"
+        },
+        {
+            "probability": {
+                "average": 0.9986091852,
+                "min": 0.9935024381,
+                "variance": 6.519848284e-06
+            },
+            "words": "费别：自费"
+        },
+        {
+            "probability": {
+                "average": 0.9999605417,
+                "min": 0.9998688698,
+                "variance": 1.196818755e-09
+            },
+            "words": "诊断：急性上呼吸道感染"
+        },
+        {
+            "probability": {
+                "average": 0.9999477267,
+                "min": 0.9998688698,
+                "variance": 2.148990319e-09
+            },
+            "words": "手机：155**5358"
+        },
+        {
+            "probability": {
+                "average": 0.9959487915,
+                "min": 0.991892457,
+                "variance": 8.229077139e-06
+            },
+            "words": "Rp."
+        },
+        {
+            "probability": {
+                "average": 0.9997886419,
+                "min": 0.9987869859,
+                "variance": 1.185736238e-07
+            },
+            "words": "①氯化钠注射液(0.9g×1瓶)"
+        },
+        {
+            "probability": {
+                "average": 0.9998481274,
+                "min": 0.9997498393,
+                "variance": 8.182668765e-09
+            },
+            "words": "治疗室6"
+        },
+        {
+            "probability": {
+                "average": 0.9065119624,
+                "min": 0.4463322759,
+                "variance": 0.04235850275
+            },
+            "words": "100ml."
+        },
+        {
+            "probability": {
+                "average": 0.999840498,
+                "min": 0.9987872243,
+                "variance": 8.889556113e-08
+            },
+            "words": "注射用头孢曲松钠（石药欧意）(1g×3支)"
+        },
+        {
+            "probability": {
+                "average": 0.9989963174,
+                "min": 0.9970861077,
+                "variance": 1.099262136e-06
+            },
+            "words": "每天1次1天"
+        },
+        {
+            "probability": {
+                "average": 0.999669075,
+                "min": 0.9989330173,
+                "variance": 1.472689206e-07
+            },
+            "words": "阴-1-3"
+        },
+        {
+            "probability": {
+                "average": 0.9998212457,
+                "min": 0.9992364645,
+                "variance": 7.007465541e-08
+            },
+            "words": "皮试()3g"
+        },
+        {
+            "probability": {
+                "average": 0.9998114109,
+                "min": 0.9993392825,
+                "variance": 4.309448798e-08
+            },
+            "words": "静脉滴注60d/m"
+        },
+        {
+            "probability": {
+                "average": 0.9998067021,
+                "min": 0.9988545179,
+                "variance": 9.740119822e-08
+            },
+            "words": "②氯化钠注射液(0.9g×1瓶)"
+        },
+        {
+            "probability": {
+                "average": 0.999848783,
+                "min": 0.9997090697,
+                "variance": 7.629888721e-09
+            },
+            "words": "治疗室6"
+        },
+        {
+            "probability": {
+                "average": 0.9990323782,
+                "min": 0.9953417778,
+                "variance": 3.40564884e-06
+            },
+            "words": "100ml"
+        },
+        {
+            "probability": {
+                "average": 0.9996746182,
+                "min": 0.9970966578,
+                "variance": 5.389537705e-07
+            },
+            "words": "盐酸氨溴索注射液（伊诺舒）(15mg×2支)"
+        },
+        {
+            "probability": {
+                "average": 0.9969630241,
+                "min": 0.987380147,
+                "variance": 1.929628706e-05
+            },
+            "words": "每天1次1天"
+        },
+        {
+            "probability": {
+                "average": 0.9996854663,
+                "min": 0.9987384677,
+                "variance": 2.292385517e-07
+            },
+            "words": "阴-3-4"
+        },
+        {
+            "probability": {
+                "average": 0.9999786615,
+                "min": 0.9999665022,
+                "variance": 5.993783248e-11
+            },
+            "words": "30mg"
+        },
+        {
+            "probability": {
+                "average": 0.9998298287,
+                "min": 0.999402523,
+                "variance": 3.555225092e-08
+            },
+            "words": "静脉滴注60d/m"
+        },
+        {
+            "probability": {
+                "average": 0.9997140169,
+                "min": 0.9972328544,
+                "variance": 3.911489728e-07
+            },
+            "words": "③葡萄糖注射液（辰欣）(100ml×1瓶)"
+        },
+        {
+            "probability": {
+                "average": 0.997513473,
+                "min": 0.987757802,
+                "variance": 2.37934164e-05
+            },
+            "words": "100ml"
+        },
+        {
+            "probability": {
+                "average": 0.9998806715,
+                "min": 0.9988164902,
+                "variance": 8.469819335e-08
+            },
+            "words": "注射用炎琥宁(200mg×2支)"
+        },
+        {
+            "probability": {
+                "average": 0.9999764562,
+                "min": 0.9999629259,
+                "variance": 1.332615823e-10
+            },
+            "words": "400mg"
+        },
+        {
+            "probability": {
+                "average": 0.997053206,
+                "min": 0.985275507,
+                "variance": 2.788413076e-05
+            },
+            "words": "每天1次1天"
+        },
+        {
+            "probability": {
+                "average": 0.9998165965,
+                "min": 0.9995193481,
+                "variance": 3.325101972e-08
+            },
+            "words": "阴-1-2"
+        },
+        {
+            "probability": {
+                "average": 0.9998614788,
+                "min": 0.9996036887,
+                "variance": 1.602628608e-08
+            },
+            "words": "静脉滴注60d/m"
+        },
+        {
+            "probability": {
+                "average": 0.9996166229,
+                "min": 0.9963263869,
+                "variance": 8.150126973e-07
+            },
+            "words": "④氯化钠注射液(0.9g×1瓶)"
+        },
+        {
+            "probability": {
+                "average": 0.9998750091,
+                "min": 0.9997707009,
+                "variance": 4.86170304e-09
+            },
+            "words": "治疗室6"
+        },
+        {
+            "probability": {
+                "average": 0.9990385771,
+                "min": 0.9953470826,
+                "variance": 3.40703923e-06
+            },
+            "words": "100ml"
+        },
+        {
+            "probability": {
+                "average": 0.9992735982,
+                "min": 0.990773201,
+                "variance": 4.896105111e-06
+            },
+            "words": "注射用赖氨匹林(0.9g×1支)"
+        },
+        {
+            "probability": {
+                "average": 0.9990971684,
+                "min": 0.9968196154,
+                "variance": 1.123735842e-06
+            },
+            "words": "每天1次1天"
+        },
+        {
+            "probability": {
+                "average": 0.9998675585,
+                "min": 0.9996945858,
+                "variance": 1.683199002e-08
+            },
+            "words": "阴-2-5"
+        },
+        {
+            "probability": {
+                "average": 0.9954557419,
+                "min": 0.9854674935,
+                "variance": 3.437655323e-05
+            },
+            "words": "0.9g"
+        },
+        {
+            "probability": {
+                "average": 0.99979496,
+                "min": 0.999289155,
+                "variance": 5.431698114e-08
+            },
+            "words": "静脉滴注60d/m"
+        },
+        {
+            "probability": {
+                "average": 0.9998381138,
+                "min": 0.9998381138,
+                "variance": 0
+            },
+            "words": "⑤"
+        },
+        {
+            "probability": {
+                "average": 0.9998557568,
+                "min": 0.9993570447,
+                "variance": 3.725986986e-08
+            },
+            "words": "氯化钠注射液(0.9g×1瓶)"
+        },
+        {
+            "probability": {
+                "average": 0.9997898936,
+                "min": 0.9995197058,
+                "variance": 3.046340424e-08
+            },
+            "words": "治疗室6"
+        },
+        {
+            "probability": {
+                "average": 0.9566196799,
+                "min": 0.4934121668,
+                "variance": 0.01950921305
+            },
+            "words": "100ml〕每天1次1天"
+        },
+        {
+            "probability": {
+                "average": 0.9998500347,
+                "min": 0.9995193481,
+                "variance": 2.595450965e-08
+            },
+            "words": "静脉滴注60d/m"
+        },
+        {
+            "probability": {
+                "average": 0.9987514019,
+                "min": 0.9956625104,
+                "variance": 3.188825531e-06
+            },
+            "words": "以下空白"
+        },
+        {
+            "probability": {
+                "average": 0.9998888969,
+                "min": 0.9997480512,
+                "variance": 6.361041915e-09
+            },
+            "words": "医生：王金金"
+        },
+        {
+            "probability": {
+                "average": 0.9998880029,
+                "min": 0.9993064404,
+                "variance": 4.392358832e-08
+            },
+            "words": "金额：130.00"
+        },
+        {
+            "probability": {
+                "average": 0.9998687506,
+                "min": 0.9985200763,
+                "variance": 5.854893104e-08
+            },
+            "words": "除主诊医师特别注明外，处方仅当日有效。按卫生部规定，药房药品一经发出，不得退换。"
+        }
+    ],
+    "words_result_num": 50,
+    "direction": 0,
+    "log_id": 1929384200128288380
+}

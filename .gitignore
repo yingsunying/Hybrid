@@ -1,0 +1,5 @@
+pdf_processor.py
+.idea/
+build/
+*.iml
+local.properties

@@ -1,0 +1,311 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9945400953,
+                "min": 0.9581045508,
+                "variance": 0.0001557013893
+            },
+            "words": "廣州中醫藥大學深圳医院（福田）"
+        },
+        {
+            "probability": {
+                "average": 0.9969747663,
+                "min": 0.9796171784,
+                "variance": 1.358079226e-05
+            },
+            "words": "SHENZHEN HOSPITAL OF GUANGZHOU UNIVERSITY OF CHINESE MEDICINE(FUTIAN)"
+        },
+        {
+            "probability": {
+                "average": 0.9998568296,
+                "min": 0.9996752739,
+                "variance": 1.488522905e-08
+            },
+            "words": "门（急）诊初诊病历"
+        },
+        {
+            "probability": {
+                "average": 0.9999492168,
+                "min": 0.9997101426,
+                "variance": 5.499682043e-09
+            },
+            "words": "就诊时间：2023年05月25日08：58"
+        },
+        {
+            "probability": {
+                "average": 0.9999567866,
+                "min": 0.9998954535,
+                "variance": 1.217754453e-09
+            },
+            "words": "就诊科室：皮肤科门诊"
+        },
+        {
+            "probability": {
+                "average": 0.9999289513,
+                "min": 0.9998218417,
+                "variance": 4.104268925e-09
+            },
+            "words": "姓名：黄敏"
+        },
+        {
+            "probability": {
+                "average": 0.9998530149,
+                "min": 0.9996421337,
+                "variance": 2.13840039e-08
+            },
+            "words": "性别：女"
+        },
+        {
+            "probability": {
+                "average": 0.9999545217,
+                "min": 0.9998732805,
+                "variance": 3.104999591e-09
+            },
+            "words": "年龄：37岁"
+        },
+        {
+            "probability": {
+                "average": 0.9999890924,
+                "min": 0.9999557734,
+                "variance": 1.240480774e-10
+            },
+            "words": "登记号：0002052104"
+        },
+        {
+            "probability": {
+                "average": 0.9997825623,
+                "min": 0.9985579848,
+                "variance": 1.443247584e-07
+            },
+            "words": "主诉：发现前发际2处脱发区1月"
+        },
+        {
+            "probability": {
+                "average": 0.9998813868,
+                "min": 0.9986860156,
+                "variance": 7.404234736e-08
+            },
+            "words": "现病史：发现前发际2处脱发区1月，平素常熬夜。"
+        },
+        {
+            "probability": {
+                "average": 0.9999151826,
+                "min": 0.9995353222,
+                "variance": 1.652858117e-08
+            },
+            "words": "既往及其他病史：否认；"
+        },
+        {
+            "probability": {
+                "average": 0.9885370135,
+                "min": 0.862996757,
+                "variance": 0.001432762598
+            },
+            "words": "月经史：lmp:5-21"
+        },
+        {
+            "probability": {
+                "average": 0.9994857907,
+                "min": 0.9978253841,
+                "variance": 6.073138934e-07
+            },
+            "words": "过敏史：不详"
+        },
+        {
+            "probability": {
+                "average": 0.9989979267,
+                "min": 0.9683914781,
+                "variance": 2.189747647e-05
+            },
+            "words": "体格检查：T:36.4℃P:次/分R:次/分Bp:/mmHg。发现前发际2处脱发区，3-"
+        },
+        {
+            "probability": {
+                "average": 0.9999296665,
+                "min": 0.9999094009,
+                "variance": 6.471694292e-10
+            },
+            "words": "5mm。"
+        },
+        {
+            "probability": {
+                "average": 0.9983412623,
+                "min": 0.9796176553,
+                "variance": 2.421472891e-05
+            },
+            "words": "辅助检查：皮肤镜：斑秃，少许毳毛。"
+        },
+        {
+            "probability": {
+                "average": 0.991985023,
+                "min": 0.9284721017,
+                "variance": 0.0005042465637
+            },
+            "words": "西医诊断：1)斑秃"
+        },
+        {
+            "probability": {
+                "average": 0.9997609258,
+                "min": 0.9980159998,
+                "variance": 3.810574469e-07
+            },
+            "words": "中医诊断（证型）："
+        },
+        {
+            "probability": {
+                "average": 0.999532938,
+                "min": 0.9917041063,
+                "variance": 2.255463414e-06
+            },
+            "words": "治疗处置：本次局封；第二(6.1)第三周(6.8)行梅花针"
+        },
+        {
+            "probability": {
+                "average": 0.9998538494,
+                "min": 0.999260366,
+                "variance": 5.414761972e-08
+            },
+            "words": "1、中草药处方："
+        },
+        {
+            "probability": {
+                "average": 0.9997979999,
+                "min": 0.9971224666,
+                "variance": 2.475512417e-07
+            },
+            "words": "2、西成药处方：1)（集）复方甘草酸苷胶囊[75mg*40粒/盒]150mg每日3次7天"
+        },
+        {
+            "probability": {
+                "average": 0.9998349547,
+                "min": 0.9990076423,
+                "variance": 5.691969918e-08
+            },
+            "words": "2)倍他米松乳膏[15g/支]5g每日2次1天"
+        },
+        {
+            "probability": {
+                "average": 0.9989067316,
+                "min": 0.9839313626,
+                "variance": 8.80751486e-06
+            },
+            "words": "3)(集)利多卡因注射液[0.1g:5ml*5支]0.1g临时1次1天"
+        },
+        {
+            "probability": {
+                "average": 0.9996072054,
+                "min": 0.9977841973,
+                "variance": 2.928980507e-07
+            },
+            "words": "4)醋酸曲安奈德注射液[1ml:40mg/支]20mg临时1次1天"
+        },
+        {
+            "probability": {
+                "average": 0.9999254942,
+                "min": 0.999537468,
+                "variance": 1.165400221e-08
+            },
+            "words": "5)5%米诺地尔酊自备，局部外涂，每天1次"
+        },
+        {
+            "probability": {
+                "average": 0.9999038577,
+                "min": 0.9996153116,
+                "variance": 1.684094819e-08
+            },
+            "words": "3、定期复诊，不适随诊。"
+        },
+        {
+            "probability": {
+                "average": 0.9999470711,
+                "min": 0.9996193647,
+                "variance": 6.481789772e-09
+            },
+            "words": "4、健康处方：饮食均衡，作息规律，情绪稳定。3周后复诊"
+        },
+        {
+            "probability": {
+                "average": 0.9997040629,
+                "min": 0.9991161227,
+                "variance": 9.054968331e-08
+            },
+            "words": "温馨提示："
+        },
+        {
+            "probability": {
+                "average": 0.9996757507,
+                "min": 0.9966094494,
+                "variance": 3.256862442e-07
+            },
+            "words": "1)患者（亲属、监护人）应如实向医生陈述患者的病情（包括但不限于：既往病"
+        },
+        {
+            "probability": {
+                "average": 0.9999298453,
+                "min": 0.9990010858,
+                "variance": 3.107095736e-08
+            },
+            "words": "史、家族史、过敏史、慢性病史及精神障碍史、是否属于意外伤害、是否属于自残"
+        },
+        {
+            "probability": {
+                "average": 0.9999167919,
+                "min": 0.9992332458,
+                "variance": 2.678287103e-08
+            },
+            "words": "等)，不得隐瞒，以避免由此而引起的病情加重或危及生命等不良后果。"
+        },
+        {
+            "probability": {
+                "average": 0.9999395013,
+                "min": 0.9997549653,
+                "variance": 3.833435791e-09
+            },
+            "words": "2)患者（亲属、监护人）如对病历记载的内容有异议应当场向医院提出，否则，"
+        },
+        {
+            "probability": {
+                "average": 0.9999656677,
+                "min": 0.9999116659,
+                "variance": 9.977281223e-10
+            },
+            "words": "以病历记载为准！"
+        },
+        {
+            "probability": {
+                "average": 0.9998745918,
+                "min": 0.9995063543,
+                "variance": 3.417488514e-08
+            },
+            "words": "谢谢配合！"
+        },
+        {
+            "probability": {
+                "average": 0.9987785816,
+                "min": 0.9961418509,
+                "variance": 1.900347115e-06
+            },
+            "words": "医师签名：李诗意"
+        },
+        {
+            "probability": {
+                "average": 0.9999628067,
+                "min": 0.9999192953,
+                "variance": 4.120579433e-10
+            },
+            "words": "GZY1291"
+        },
+        {
+            "probability": {
+                "average": 0.9999376535,
+                "min": 0.9998563528,
+                "variance": 2.135428279e-09
+            },
+            "words": "第(1)页"
+        }
+    ],
+    "words_result_num": 38,
+    "direction": 0,
+    "log_id": 1929384209982426305
+}

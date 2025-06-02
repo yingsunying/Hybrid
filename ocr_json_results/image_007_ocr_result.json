@@ -1,0 +1,415 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9999259114,
+                "min": 0.9997988343,
+                "variance": 7.280341663e-09
+            },
+            "words": "南京鼓楼医院"
+        },
+        {
+            "probability": {
+                "average": 0.9999705553,
+                "min": 0.9998132586,
+                "variance": 2.426121082e-09
+            },
+            "words": "南京大学医学院附属鼓楼医院"
+        },
+        {
+            "probability": {
+                "average": 0.9999853373,
+                "min": 0.9999408722,
+                "variance": 4.947253163e-10
+            },
+            "words": "互联网医院"
+        },
+        {
+            "probability": {
+                "average": 0.99994874,
+                "min": 0.9999073744,
+                "variance": 6.795026763e-10
+            },
+            "words": "门诊病历"
+        },
+        {
+            "probability": {
+                "average": 0.9994158745,
+                "min": 0.998883307,
+                "variance": 2.5617868e-07
+            },
+            "words": "预约挂号"
+        },
+        {
+            "probability": {
+                "average": 0.9997281432,
+                "min": 0.9992958307,
+                "variance": 7.192669926e-08
+            },
+            "words": "姓名：王洋洋"
+        },
+        {
+            "probability": {
+                "average": 0.9995729923,
+                "min": 0.9983541965,
+                "variance": 4.954993074e-07
+            },
+            "words": "性别：男"
+        },
+        {
+            "probability": {
+                "average": 0.9997864962,
+                "min": 0.9991156459,
+                "variance": 1.138338916e-07
+            },
+            "words": "年龄：20"
+        },
+        {
+            "probability": {
+                "average": 0.9946326613,
+                "min": 0.9851196408,
+                "variance": 4.525931945e-05
+            },
+            "words": "ID:"
+        },
+        {
+            "probability": {
+                "average": 0.9999707341,
+                "min": 0.9998131394,
+                "variance": 1.743465705e-09
+            },
+            "words": "2025年05月09日11时20分皮肤性病科门诊"
+        },
+        {
+            "probability": {
+                "average": 0.9998022318,
+                "min": 0.9989733696,
+                "variance": 7.912149869e-08
+            },
+            "words": "主诉：双小腿皮疹痒两周"
+        },
+        {
+            "probability": {
+                "average": 0.9998785853,
+                "min": 0.9995847344,
+                "variance": 1.513467396e-08
+            },
+            "words": "病史：近两周双小腿出现皮疹，伴瘙痒"
+        },
+        {
+            "probability": {
+                "average": 0.9998631477,
+                "min": 0.9995430708,
+                "variance": 2.527334075e-08
+            },
+            "words": "过敏史：无吸烟史"
+        },
+        {
+            "probability": {
+                "average": 0.9999863505,
+                "min": 0.9999735355,
+                "variance": 7.454422496e-11
+            },
+            "words": "药物过敏史。无流行病学史"
+        },
+        {
+            "probability": {
+                "average": 0.9997794628,
+                "min": 0.9990639091,
+                "variance": 6.364657423e-08
+            },
+            "words": "体检：双小腿见多量红色丘疹抓痕"
+        },
+        {
+            "probability": {
+                "average": 0.996591866,
+                "min": 0.9899477363,
+                "variance": 2.207226498e-05
+            },
+            "words": "诊断："
+        },
+        {
+            "probability": {
+                "average": 0.9994158745,
+                "min": 0.9988799691,
+                "variance": 2.872264986e-07
+            },
+            "words": "湿疹"
+        },
+        {
+            "probability": {
+                "average": 0.9997352362,
+                "min": 0.9990165234,
+                "variance": 1.384365049e-07
+            },
+            "words": "处理：随诊"
+        },
+        {
+            "probability": {
+                "average": 0.9983660579,
+                "min": 0.9929237366,
+                "variance": 4.731355602e-06
+            },
+            "words": "1.富马酸依美斯汀缓释胶囊"
+        },
+        {
+            "probability": {
+                "average": 0.9999850988,
+                "min": 0.9999632835,
+                "variance": 2.323304188e-10
+            },
+            "words": "2mg/粒"
+        },
+        {
+            "probability": {
+                "average": 0.9997520447,
+                "min": 0.9990315437,
+                "variance": 1.302369839e-07
+            },
+            "words": "用法：1粒"
+        },
+        {
+            "probability": {
+                "average": 0.9991441965,
+                "min": 0.9984439015,
+                "variance": 4.903713489e-07
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9974938631,
+                "min": 0.9893173575,
+                "variance": 1.696032814e-05
+            },
+            "words": "(二次/日"
+        },
+        {
+            "probability": {
+                "average": 0.9997213483,
+                "min": 0.9987850785,
+                "variance": 2.204887721e-07
+            },
+            "words": "x3盒7天"
+        },
+        {
+            "probability": {
+                "average": 0.9998164177,
+                "min": 0.9994096756,
+                "variance": 3.869233112e-08
+            },
+            "words": "润燥止痒胶囊"
+        },
+        {
+            "probability": {
+                "average": 0.9977297783,
+                "min": 0.9793522954,
+                "variance": 3.762730194e-05
+            },
+            "words": "0.5gx48粒/盒"
+        },
+        {
+            "probability": {
+                "average": 0.9999300241,
+                "min": 0.9998030066,
+                "variance": 4.427091138e-09
+            },
+            "words": "用法：4粒"
+        },
+        {
+            "probability": {
+                "average": 0.9991550446,
+                "min": 0.9984868765,
+                "variance": 4.46408734e-07
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9060519934,
+                "min": 0.626034081,
+                "variance": 0.02613693476
+            },
+            "words": "三次/日"
+        },
+        {
+            "probability": {
+                "average": 0.9997604489,
+                "min": 0.9989067316,
+                "variance": 1.826936114e-07
+            },
+            "words": "x2盒7天"
+        },
+        {
+            "probability": {
+                "average": 0.9998032451,
+                "min": 0.9991952777,
+                "variance": 9.026506831e-08
+            },
+            "words": "卤米松乳膏（澳能）"
+        },
+        {
+            "probability": {
+                "average": 0.9996457696,
+                "min": 0.9955488443,
+                "variance": 1.292439833e-06
+            },
+            "words": "(30g)1g0.5mg/支"
+        },
+        {
+            "probability": {
+                "average": 0.9978515506,
+                "min": 0.9897114038,
+                "variance": 1.657802386e-05
+            },
+            "words": "用法：1g"
+        },
+        {
+            "probability": {
+                "average": 0.9999284148,
+                "min": 0.9999059439,
+                "variance": 5.049436425e-10
+            },
+            "words": "外用"
+        },
+        {
+            "probability": {
+                "average": 0.9999347925,
+                "min": 0.9998782873,
+                "variance": 1.505026104e-09
+            },
+            "words": "每晚21点"
+        },
+        {
+            "probability": {
+                "average": 0.9281922579,
+                "min": 0.6499472857,
+                "variance": 0.01936526224
+            },
+            "words": "xl支1天"
+        },
+        {
+            "probability": {
+                "average": 0.9998765588,
+                "min": 0.9989670515,
+                "variance": 7.136027591e-08
+            },
+            "words": "丙酸氟替卡松乳膏（奥贝爽）"
+        },
+        {
+            "probability": {
+                "average": 0.9997574091,
+                "min": 0.99762851,
+                "variance": 3.567290605e-07
+            },
+            "words": "0.05%30g15mg/支"
+        },
+        {
+            "probability": {
+                "average": 0.9997827411,
+                "min": 0.9989162683,
+                "variance": 1.50707848e-07
+            },
+            "words": "用法：1适量"
+        },
+        {
+            "probability": {
+                "average": 0.9999012351,
+                "min": 0.9998531342,
+                "variance": 2.313701231e-09
+            },
+            "words": "外用"
+        },
+        {
+            "probability": {
+                "average": 0.9999516606,
+                "min": 0.99984622,
+                "variance": 3.83782961e-09
+            },
+            "words": "一次/日"
+        },
+        {
+            "probability": {
+                "average": 0.9147711992,
+                "min": 0.5747371912,
+                "variance": 0.02890581451
+            },
+            "words": "x1支7天"
+        },
+        {
+            "probability": {
+                "average": 0.9999421835,
+                "min": 0.9997013211,
+                "variance": 5.312046802e-09
+            },
+            "words": "复方倍他米松注射液（得宝松）"
+        },
+        {
+            "probability": {
+                "average": 0.9912694693,
+                "min": 0.9680813551,
+                "variance": 0.0001877574541
+            },
+            "words": "CO1ml/支"
+        },
+        {
+            "probability": {
+                "average": 0.9992819428,
+                "min": 0.9960671067,
+                "variance": 2.070801884e-06
+            },
+            "words": "用法：1ml"
+        },
+        {
+            "probability": {
+                "average": 0.9999644756,
+                "min": 0.9999498129,
+                "variance": 3.455475905e-10
+            },
+            "words": "肌肉注射"
+        },
+        {
+            "probability": {
+                "average": 0.9999623299,
+                "min": 0.9998722076,
+                "variance": 2.750955019e-09
+            },
+            "words": "一次/日"
+        },
+        {
+            "probability": {
+                "average": 0.9040905237,
+                "min": 0.5224788785,
+                "variance": 0.03640707955
+            },
+            "words": "xl支1天"
+        },
+        {
+            "probability": {
+                "average": 0.9987328649,
+                "min": 0.9963393211,
+                "variance": 2.865333954e-06
+            },
+            "words": "医师："
+        },
+        {
+            "probability": {
+                "average": 0.9416373968,
+                "min": 0.8832999468,
+                "variance": 0.003403258044
+            },
+            "words": "刘军"
+        },
+        {
+            "probability": {
+                "average": 0.9998764396,
+                "min": 0.9998235106,
+                "variance": 3.608792154e-09
+            },
+            "words": "第1页"
+        }
+    ],
+    "words_result_num": 51,
+    "direction": 0,
+    "log_id": 1929384197170100558
+}

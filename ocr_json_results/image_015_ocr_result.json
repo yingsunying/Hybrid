@@ -1,0 +1,359 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9999573827,
+                "min": 0.9997693896,
+                "variance": 5.244381818e-09
+            },
+            "words": "上海市第六人民医院"
+        },
+        {
+            "probability": {
+                "average": 0.9999167323,
+                "min": 0.9997739196,
+                "variance": 7.593127016e-09
+            },
+            "words": "门诊发药清单"
+        },
+        {
+            "probability": {
+                "average": 0.9960475564,
+                "min": 0.9766734242,
+                "variance": 7.507393457e-05
+            },
+            "words": "药品当面点清"
+        },
+        {
+            "probability": {
+                "average": 0.9995553493,
+                "min": 0.9990822077,
+                "variance": 1.06659634e-07
+            },
+            "words": "姓名：王洋洋"
+        },
+        {
+            "probability": {
+                "average": 0.9994313717,
+                "min": 0.9978070855,
+                "variance": 8.796976658e-07
+            },
+            "words": "性别：男"
+        },
+        {
+            "probability": {
+                "average": 0.9994661808,
+                "min": 0.9985803366,
+                "variance": 3.923726126e-07
+            },
+            "words": "年龄："
+        },
+        {
+            "probability": {
+                "average": 0.9999547005,
+                "min": 0.9999108315,
+                "variance": 1.924490789e-09
+            },
+            "words": "20"
+        },
+        {
+            "probability": {
+                "average": 0.9642962813,
+                "min": 0.4817517996,
+                "variance": 0.0166367963
+            },
+            "words": "领药窗口：门诊药房8号售卡号："
+        },
+        {
+            "probability": {
+                "average": 0.9987686276,
+                "min": 0.9933115244,
+                "variance": 4.807190635e-06
+            },
+            "words": "取药号：2146"
+        },
+        {
+            "probability": {
+                "average": 0.9998609424,
+                "min": 0.9993789196,
+                "variance": 5.826948524e-08
+            },
+            "words": "发票号：0"
+        },
+        {
+            "probability": {
+                "average": 0.9999642372,
+                "min": 0.999879837,
+                "variance": 2.382613218e-09
+            },
+            "words": "药品名称"
+        },
+        {
+            "probability": {
+                "average": 0.9994227886,
+                "min": 0.9991407394,
+                "variance": 7.953492798e-08
+            },
+            "words": "规格"
+        },
+        {
+            "probability": {
+                "average": 0.9995933175,
+                "min": 0.9984320998,
+                "variance": 4.495769872e-07
+            },
+            "words": "数量单位"
+        },
+        {
+            "probability": {
+                "average": 0.9999718666,
+                "min": 0.9999576807,
+                "variance": 2.012399136e-10
+            },
+            "words": "金额"
+        },
+        {
+            "probability": {
+                "average": 0.9936515689,
+                "min": 0.9242611527,
+                "variance": 0.0003325658035
+            },
+            "words": "(乙)复方甲氧那明胶囊(阿斯美)"
+        },
+        {
+            "probability": {
+                "average": 0.9997463226,
+                "min": 0.9989364743,
+                "variance": 1.642089416e-07
+            },
+            "words": "60粒/瓶"
+        },
+        {
+            "probability": {
+                "average": 0.9998413324,
+                "min": 0.9998160005,
+                "variance": 6.402007813e-10
+            },
+            "words": "38"
+        },
+        {
+            "probability": {
+                "average": 0.9999836683,
+                "min": 0.9999836683,
+                "variance": 0
+            },
+            "words": "1"
+        },
+        {
+            "probability": {
+                "average": 0.9999260902,
+                "min": 0.9999260902,
+                "variance": 0
+            },
+            "words": "瓶"
+        },
+        {
+            "probability": {
+                "average": 0.9996433258,
+                "min": 0.998257935,
+                "variance": 4.798358191e-07
+            },
+            "words": "37.48"
+        },
+        {
+            "probability": {
+                "average": 0.9999439716,
+                "min": 0.999922514,
+                "variance": 4.604316928e-10
+            },
+            "words": "用法"
+        },
+        {
+            "probability": {
+                "average": 0.9998639822,
+                "min": 0.9997368455,
+                "variance": 1.615616618e-08
+            },
+            "words": "每次"
+        },
+        {
+            "probability": {
+                "average": 0.9998628497,
+                "min": 0.9990414977,
+                "variance": 6.733289126e-08
+            },
+            "words": "2.000粒每天3次口服"
+        },
+        {
+            "probability": {
+                "average": 0.9996230006,
+                "min": 0.9991752505,
+                "variance": 1.003061243e-07
+            },
+            "words": "科室："
+        },
+        {
+            "probability": {
+                "average": 0.9971030354,
+                "min": 0.984606266,
+                "variance": 3.139985711e-05
+            },
+            "words": "呼吸内科（呼"
+        },
+        {
+            "probability": {
+                "average": 0.96970433,
+                "min": 0.5599283576,
+                "variance": 0.0105751846
+            },
+            "words": "#(乙10%)依巴斯汀片(开思亭)"
+        },
+        {
+            "probability": {
+                "average": 0.999587059,
+                "min": 0.9983350635,
+                "variance": 2.367937668e-07
+            },
+            "words": "10mg*10片/合"
+        },
+        {
+            "probability": {
+                "average": 0.9926350713,
+                "min": 0.9780066013,
+                "variance": 0.0001069972423
+            },
+            "words": "39-"
+        },
+        {
+            "probability": {
+                "average": 0.9994778037,
+                "min": 0.9991833568,
+                "variance": 8.669900353e-08
+            },
+            "words": "用法"
+        },
+        {
+            "probability": {
+                "average": 0.9997065663,
+                "min": 0.9997065663,
+                "variance": 0
+            },
+            "words": "1"
+        },
+        {
+            "probability": {
+                "average": 0.9998961687,
+                "min": 0.9998001456,
+                "variance": 9.214710772e-09
+            },
+            "words": "每次"
+        },
+        {
+            "probability": {
+                "average": 0.9987921119,
+                "min": 0.9987921119,
+                "variance": 0
+            },
+            "words": "合"
+        },
+        {
+            "probability": {
+                "average": 0.9995712638,
+                "min": 0.9961126447,
+                "variance": 9.303046795e-07
+            },
+            "words": "10.000mg每晚一次口服"
+        },
+        {
+            "probability": {
+                "average": 0.999943018,
+                "min": 0.9998563528,
+                "variance": 3.01063352e-09
+            },
+            "words": "3.49"
+        },
+        {
+            "probability": {
+                "average": 0.9994146824,
+                "min": 0.9961291552,
+                "variance": 1.368978587e-06
+            },
+            "words": "科室：呼吸内科（呼"
+        },
+        {
+            "probability": {
+                "average": 0.9611763358,
+                "min": 0.519030869,
+                "variance": 0.01512455661
+            },
+            "words": "(乙)桉柠蒎肠溶胶囊(切诺)"
+        },
+        {
+            "probability": {
+                "average": 0.9993963242,
+                "min": 0.9981708527,
+                "variance": 4.524496831e-07
+            },
+            "words": "0.3g*36粒/盒"
+        },
+        {
+            "probability": {
+                "average": 0.998508215,
+                "min": 0.9972570539,
+                "variance": 1.565404091e-06
+            },
+            "words": "1盒"
+        },
+        {
+            "probability": {
+                "average": 0.9482230544,
+                "min": 0.8448063731,
+                "variance": 0.005347505212
+            },
+            "words": "43大"
+        },
+        {
+            "probability": {
+                "average": 0.9998365641,
+                "min": 0.9998244643,
+                "variance": 1.471267552e-10
+            },
+            "words": "用法"
+        },
+        {
+            "probability": {
+                "average": 0.9976862669,
+                "min": 0.9953887463,
+                "variance": 5.278601293e-06
+            },
+            "words": "每次"
+        },
+        {
+            "probability": {
+                "average": 0.9998192191,
+                "min": 0.9991726279,
+                "variance": 6.147438114e-08
+            },
+            "words": "0.300g每天3次口服"
+        },
+        {
+            "probability": {
+                "average": 0.9998849034,
+                "min": 0.9994744658,
+                "variance": 4.212566296e-08
+            },
+            "words": "72.97"
+        },
+        {
+            "probability": {
+                "average": 0.9685712457,
+                "min": 0.7493929863,
+                "variance": 0.006086404901
+            },
+            "words": "科室：呼吸内科（呼"
+        }
+    ],
+    "words_result_num": 44,
+    "direction": 0,
+    "log_id": 1929384215462001780
+}

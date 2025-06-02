@@ -1,0 +1,431 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.999974668,
+                "min": 0.9996930361,
+                "variance": 5.053690799e-09
+            },
+            "words": "华中科技大学同济医学院附属协和医院"
+        },
+        {
+            "probability": {
+                "average": 0.9999349117,
+                "min": 0.9998561144,
+                "variance": 2.329311855e-09
+            },
+            "words": "门诊病历"
+        },
+        {
+            "probability": {
+                "average": 0.9999809861,
+                "min": 0.9999626875,
+                "variance": 1.370198816e-10
+            },
+            "words": "姓名：孙雪成"
+        },
+        {
+            "probability": {
+                "average": 0.9999338388,
+                "min": 0.9996579885,
+                "variance": 1.049450038e-08
+            },
+            "words": "性别：女年龄：34岁"
+        },
+        {
+            "probability": {
+                "average": 0.9999862313,
+                "min": 0.9999028444,
+                "variance": 5.605608755e-10
+            },
+            "words": "门诊卡号：219263491"
+        },
+        {
+            "probability": {
+                "average": 0.8426742554,
+                "min": 0.4118793607,
+                "variance": 0.06210353225
+            },
+            "words": "执费如京"
+        },
+        {
+            "probability": {
+                "average": 0.9999077916,
+                "min": 0.9996984005,
+                "variance": 8.389308803e-09
+            },
+            "words": "类别：主任医师"
+        },
+        {
+            "probability": {
+                "average": 0.9999831915,
+                "min": 0.9999136925,
+                "variance": 5.133621306e-10
+            },
+            "words": "就诊日期：2024-09-1513：03"
+        },
+        {
+            "probability": {
+                "average": 0.9999274015,
+                "min": 0.9996589422,
+                "variance": 1.245714021e-08
+            },
+            "words": "就诊院区：本部"
+        },
+        {
+            "probability": {
+                "average": 0.9999706745,
+                "min": 0.99992311,
+                "variance": 5.695773853e-10
+            },
+            "words": "科室：神经内科门诊"
+        },
+        {
+            "probability": {
+                "average": 0.9996570945,
+                "min": 0.9993337989,
+                "variance": 6.442768807e-08
+            },
+            "words": "主诉：失眠复诊"
+        },
+        {
+            "probability": {
+                "average": 0.9996082783,
+                "min": 0.9987192154,
+                "variance": 1.804826155e-07
+            },
+            "words": "现病史：失眠复诊"
+        },
+        {
+            "probability": {
+                "average": 0.9980155826,
+                "min": 0.9903565049,
+                "variance": 1.467107541e-05
+            },
+            "words": "流行病史："
+        },
+        {
+            "probability": {
+                "average": 0.9988500476,
+                "min": 0.9945476055,
+                "variance": 4.629027444e-06
+            },
+            "words": "既往史：-"
+        },
+        {
+            "probability": {
+                "average": 0.9996272922,
+                "min": 0.9983304143,
+                "variance": 2.52002792e-07
+            },
+            "words": "月经史：LMP:"
+        },
+        {
+            "probability": {
+                "average": 0.9999983311,
+                "min": 0.9999983311,
+                "variance": 0
+            },
+            "words": "年"
+        },
+        {
+            "probability": {
+                "average": 0.9998276234,
+                "min": 0.9998276234,
+                "variance": 0
+            },
+            "words": "月"
+        },
+        {
+            "probability": {
+                "average": 0.9995361567,
+                "min": 0.9995361567,
+                "variance": 0
+            },
+            "words": "日"
+        },
+        {
+            "probability": {
+                "average": 0.9999206662,
+                "min": 0.9996976852,
+                "variance": 1.281691464e-08
+            },
+            "words": "过敏史：无"
+        },
+        {
+            "probability": {
+                "average": 0.9986743927,
+                "min": 0.995431304,
+                "variance": 3.534600637e-06
+            },
+            "words": "体检：-"
+        },
+        {
+            "probability": {
+                "average": 0.9997487664,
+                "min": 0.9984475374,
+                "variance": 2.452098045e-07
+            },
+            "words": "辅助检查结果：-"
+        },
+        {
+            "probability": {
+                "average": 0.9998725057,
+                "min": 0.9992301464,
+                "variance": 5.557699723e-08
+            },
+            "words": "初步诊断：焦虑状态"
+        },
+        {
+            "probability": {
+                "average": 0.9995348454,
+                "min": 0.9995085001,
+                "variance": 6.956444309e-10
+            },
+            "words": "失眠"
+        },
+        {
+            "probability": {
+                "average": 0.9993192554,
+                "min": 0.9969522953,
+                "variance": 1.406354954e-06
+            },
+            "words": "治疗意见："
+        },
+        {
+            "probability": {
+                "average": 0.9997910261,
+                "min": 0.9973790646,
+                "variance": 3.157610706e-07
+            },
+            "words": "(1)(阿美宁)阿戈美拉汀片(25mg*142盒)25毫克"
+        },
+        {
+            "probability": {
+                "average": 0.9984064102,
+                "min": 0.9963088632,
+                "variance": 2.370353286e-06
+            },
+            "words": "Sig:"
+        },
+        {
+            "probability": {
+                "average": 0.9998759031,
+                "min": 0.9993048906,
+                "variance": 3.945093141e-08
+            },
+            "words": "每日一次口服睡前1天"
+        },
+        {
+            "probability": {
+                "average": 0.8325064778,
+                "min": 0.6351624131,
+                "variance": 0.02074400336
+            },
+            "words": "前丰1"
+        },
+        {
+            "probability": {
+                "average": 0.9999526143,
+                "min": 0.9995484948,
+                "variance": 1.063133137e-08
+            },
+            "words": "(2)解郁丸(4g*9袋10盒)4克"
+        },
+        {
+            "probability": {
+                "average": 0.9984538555,
+                "min": 0.9966436625,
+                "variance": 2.152796242e-06
+            },
+            "words": "Sig:"
+        },
+        {
+            "probability": {
+                "average": 0.9992458224,
+                "min": 0.9977705479,
+                "variance": 9.909696246e-07
+            },
+            "words": "每日三次口服"
+        },
+        {
+            "probability": {
+                "average": 0.7874290347,
+                "min": 0.3648841381,
+                "variance": 0.08927216381
+            },
+            "words": "早帽1"
+        },
+        {
+            "probability": {
+                "average": 0.9997212887,
+                "min": 0.9980081916,
+                "variance": 2.238081294e-07
+            },
+            "words": "(3)(美时玉)盐酸曲唑酮片(50mg*20#2盒)50毫克"
+        },
+        {
+            "probability": {
+                "average": 0.9976334572,
+                "min": 0.9948478937,
+                "variance": 4.764374353e-06
+            },
+            "words": "Sig:"
+        },
+        {
+            "probability": {
+                "average": 0.9989929199,
+                "min": 0.9978988171,
+                "variance": 5.190354386e-07
+            },
+            "words": "每晚口服"
+        },
+        {
+            "probability": {
+                "average": 0.991369307,
+                "min": 0.991369307,
+                "variance": 0
+            },
+            "words": "1"
+        },
+        {
+            "probability": {
+                "average": 0.9998096228,
+                "min": 0.997671783,
+                "variance": 2.371765078e-07
+            },
+            "words": "(4)(思诺思)酒石酸唑吡坦片(10mg14片)10毫克"
+        },
+        {
+            "probability": {
+                "average": 0.9977882504,
+                "min": 0.9945369363,
+                "variance": 4.321133019e-06
+            },
+            "words": "Sig:"
+        },
+        {
+            "probability": {
+                "average": 0.9997478724,
+                "min": 0.9990631938,
+                "variance": 1.565532699e-07
+            },
+            "words": "每日一次"
+        },
+        {
+            "probability": {
+                "average": 0.9993650913,
+                "min": 0.9890244603,
+                "variance": 4.625130714e-06
+            },
+            "words": "(5)(优菲)奥沙西泮片(15mg15片)15毫克"
+        },
+        {
+            "probability": {
+                "average": 0.983859539,
+                "min": 0.8939017057,
+                "variance": 0.0009996780427
+            },
+            "words": "Sig:每日一次口服"
+        },
+        {
+            "probability": {
+                "average": 0.9998494983,
+                "min": 0.9995881915,
+                "variance": 3.414677252e-08
+            },
+            "words": "补充："
+        },
+        {
+            "probability": {
+                "average": 0.9999502301,
+                "min": 0.9998438358,
+                "variance": 1.876905742e-09
+            },
+            "words": "备注：不适随诊。"
+        },
+        {
+            "probability": {
+                "average": 0.9998630881,
+                "min": 0.9992226362,
+                "variance": 4.275140597e-08
+            },
+            "words": "CBTI-15387076648红会医院余主任。"
+        },
+        {
+            "probability": {
+                "average": 0.9998913407,
+                "min": 0.9983471632,
+                "variance": 1.150467668e-07
+            },
+            "words": "预约方式：微信关注“武汉协和医院”官方公众号"
+        },
+        {
+            "probability": {
+                "average": 0.9999140501,
+                "min": 0.9996687174,
+                "variance": 1.614721157e-08
+            },
+            "words": "医生签名："
+        },
+        {
+            "probability": {
+                "average": 0.9997148514,
+                "min": 0.9994571805,
+                "variance": 4.698026501e-08
+            },
+            "words": "夏远鹏"
+        },
+        {
+            "probability": {
+                "average": 0.9976264834,
+                "min": 0.9957221746,
+                "variance": 3.029865184e-06
+            },
+            "words": "第1页"
+        },
+        {
+            "probability": {
+                "average": 0.9999470711,
+                "min": 0.999345839,
+                "variance": 1.970444963e-08
+            },
+            "words": "打印时间：2024-09-1513：07"
+        },
+        {
+            "probability": {
+                "average": 0.9722560048,
+                "min": 0.7786636949,
+                "variance": 0.005354009569
+            },
+            "words": "医生签名；夏远鹏"
+        },
+        {
+            "probability": {
+                "average": 0.9845277667,
+                "min": 0.9549310207,
+                "variance": 0.0004381710023
+            },
+            "words": "发药:"
+        },
+        {
+            "probability": {
+                "average": 0.9981201291,
+                "min": 0.9968959093,
+                "variance": 1.159747512e-06
+            },
+            "words": "调配:"
+        },
+        {
+            "probability": {
+                "average": 0.8195559978,
+                "min": 0.4948209226,
+                "variance": 0.05281071365
+            },
+            "words": "小红书"
+        }
+    ],
+    "words_result_num": 53,
+    "direction": 0,
+    "log_id": 1929384202573711133
+}

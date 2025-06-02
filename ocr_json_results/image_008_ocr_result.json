@@ -1,0 +1,287 @@
+{
+    "words_result": [
+        {
+            "probability": {
+                "average": 0.9999082685,
+                "min": 0.9996145964,
+                "variance": 1.619193313e-08
+            },
+            "words": "西安医学院第二附属医院处方笺"
+        },
+        {
+            "probability": {
+                "average": 0.9999206066,
+                "min": 0.9998954535,
+                "variance": 7.208207364e-10
+            },
+            "words": "(门诊)"
+        },
+        {
+            "probability": {
+                "average": 0.6674321294,
+                "min": 0.3099648654,
+                "variance": 0.04615015909
+            },
+            "words": "牡方当自有效"
+        },
+        {
+            "probability": {
+                "average": 0.9998694658,
+                "min": 0.9993649125,
+                "variance": 2.659655252e-08
+            },
+            "words": "科别：呼吸与危重费别：一卡通"
+        },
+        {
+            "probability": {
+                "average": 0.9999849796,
+                "min": 0.9999238253,
+                "variance": 5.31578892e-10
+            },
+            "words": "日期：2023-09-23"
+        },
+        {
+            "probability": {
+                "average": 0.9995203018,
+                "min": 0.9988512993,
+                "variance": 2.102972303e-07
+            },
+            "words": "姓名：王洋洋"
+        },
+        {
+            "probability": {
+                "average": 0.9998630285,
+                "min": 0.999560535,
+                "variance": 3.086593026e-08
+            },
+            "words": "性别：女"
+        },
+        {
+            "probability": {
+                "average": 0.9999597073,
+                "min": 0.9998268485,
+                "variance": 3.804457194e-09
+            },
+            "words": "年龄：37岁"
+        },
+        {
+            "probability": {
+                "average": 0.9999759793,
+                "min": 0.9999107122,
+                "variance": 5.510213397e-10
+            },
+            "words": "门诊号：2309056601"
+        },
+        {
+            "probability": {
+                "average": 0.997379005,
+                "min": 0.9921920896,
+                "variance": 1.345207511e-05
+            },
+            "words": "慢性病"
+        },
+        {
+            "probability": {
+                "average": 0.9999898672,
+                "min": 0.999938488,
+                "variance": 2.209402244e-10
+            },
+            "words": "处方号：2309034026"
+        },
+        {
+            "probability": {
+                "average": 0.9999573827,
+                "min": 0.9998047948,
+                "variance": 3.330323572e-09
+            },
+            "words": "临床诊断：急性上呼吸道感染"
+        },
+        {
+            "probability": {
+                "average": 0.9998049736,
+                "min": 0.9993085861,
+                "variance": 5.141659543e-08
+            },
+            "words": "地址：穆将王"
+        },
+        {
+            "probability": {
+                "average": 0.9999063015,
+                "min": 0.9999063015,
+                "variance": 0
+            },
+            "words": "R"
+        },
+        {
+            "probability": {
+                "average": 0.9999019504,
+                "min": 0.9996015429,
+                "variance": 1.676412431e-08
+            },
+            "words": "地红霉素肠溶片0.5g×6片/盒×1盒"
+        },
+        {
+            "probability": {
+                "average": 0.9997724295,
+                "min": 0.999124825,
+                "variance": 7.176939221e-08
+            },
+            "words": "用法：0.5g每日一次口服"
+        },
+        {
+            "probability": {
+                "average": 0.9999595284,
+                "min": 0.9997473359,
+                "variance": 3.812849592e-09
+            },
+            "words": "六灵解毒丸30粒/支×2支/盒×2盒"
+        },
+        {
+            "probability": {
+                "average": 0.9999113679,
+                "min": 0.9995836616,
+                "variance": 1.705541486e-08
+            },
+            "words": "用法：10粒每日三次口服"
+        },
+        {
+            "probability": {
+                "average": 0.9998505712,
+                "min": 0.9996598959,
+                "variance": 1.11545857e-08
+            },
+            "words": "银黄口服液"
+        },
+        {
+            "probability": {
+                "average": 0.9998293519,
+                "min": 0.999089241,
+                "variance": 8.92912837e-08
+            },
+            "words": "10ml×6支/盒×2盒"
+        },
+        {
+            "probability": {
+                "average": 0.9999136329,
+                "min": 0.99973768,
+                "variance": 7.175193328e-09
+            },
+            "words": "用法：10ml"
+        },
+        {
+            "probability": {
+                "average": 0.9994812012,
+                "min": 0.9980066419,
+                "variance": 7.253802892e-07
+            },
+            "words": "每日三次"
+        },
+        {
+            "probability": {
+                "average": 0.9975645542,
+                "min": 0.9952958226,
+                "variance": 5.147007869e-06
+            },
+            "words": "口服"
+        },
+        {
+            "probability": {
+                "average": 0.9999249578,
+                "min": 0.9993811846,
+                "variance": 2.754254069e-08
+            },
+            "words": "该处方结束，以下为空白！"
+        },
+        {
+            "probability": {
+                "average": 0.9999305606,
+                "min": 0.9998168349,
+                "variance": 4.463103664e-09
+            },
+            "words": "医师签名："
+        },
+        {
+            "probability": {
+                "average": 0.9999165535,
+                "min": 0.999895215,
+                "variance": 2.246594022e-10
+            },
+            "words": "王惠芳/"
+        },
+        {
+            "probability": {
+                "average": 0.8053531647,
+                "min": 0.6107932925,
+                "variance": 0.03785355389
+            },
+            "words": "王惠"
+        },
+        {
+            "probability": {
+                "average": 0.9999094605,
+                "min": 0.9998119473,
+                "variance": 2.132649612e-09
+            },
+            "words": "审核调配药师"
+        },
+        {
+            "probability": {
+                "average": 0.9999294877,
+                "min": 0.9997435212,
+                "variance": 1.154541973e-08
+            },
+            "words": "处方金额"
+        },
+        {
+            "probability": {
+                "average": 0.99945575,
+                "min": 0.9968529344,
+                "variance": 1.355021936e-06
+            },
+            "words": "365.61"
+        },
+        {
+            "probability": {
+                "average": 0.9999169707,
+                "min": 0.9998044372,
+                "variance": 3.089698497e-09
+            },
+            "words": "复核发药药师"
+        },
+        {
+            "probability": {
+                "average": 0.9997122884,
+                "min": 0.9983144999,
+                "variance": 3.908131703e-07
+            },
+            "words": "处方当日有效"
+        },
+        {
+            "probability": {
+                "average": 0.9997804165,
+                "min": 0.9980822802,
+                "variance": 2.116255473e-07
+            },
+            "words": "①遵医嘱服用②请在窗口点清药品"
+        },
+        {
+            "probability": {
+                "average": 0.9999231696,
+                "min": 0.9995555282,
+                "variance": 1.637493696e-08
+            },
+            "words": "③药品属特殊商品，一般不予退换④冷藏药品概不退换"
+        },
+        {
+            "probability": {
+                "average": 0.9445325732,
+                "min": 0.9445325732,
+                "variance": 0
+            },
+            "words": "候"
+        }
+    ],
+    "words_result_num": 35,
+    "direction": 0,
+    "log_id": 1929384198152733080
+}
